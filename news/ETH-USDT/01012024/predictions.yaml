@@ -1,0 +1,21 @@
+predictions:
+  - id: 1
+    title: "ETH Price Analysis"
+    preview: "Ethereum price movement analysis"
+    fullContent: "Detailed technical analysis of Ethereum price movements and key support/resistance levels."
+    image: "ETHUSDT/01012024/1/chart.png"
+    sourcelink: "https://example.com/eth-analysis"
+
+  - id: 2
+    title: "ETH Gas Analysis"
+    preview: "Ethereum gas price trends and predictions"
+    fullContent: "Analysis of Ethereum gas prices and their impact on network activity and price movement."
+    image: "ETHUSDT/01012024/2/chart.png"
+    sourcelink: "https://example.com/eth-gas"
+
+  - id: 3
+    title: "ETH Technical Review"
+    preview: "Key technical indicators for ETH/USDT"
+    fullContent: "Comprehensive review of Ethereum's technical indicators and market structure."
+    image: "ETHUSDT/01012024/3/chart.png"
+    sourcelink: "https://example.com/eth-technical"

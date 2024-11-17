@@ -1,0 +1,177 @@
+predictions:
+- id: 1
+  title: Prediction 1
+  preview: This is a preview of prediction 1
+  fullContent: "Bitcoin (BTC) is the first and most well-known cryptocurrency, revolutionizing\
+    \ the world of finance and technology since its creation in 2009 by the pseudonymous\
+    \ Satoshi Nakamoto. Designed as a decentralized digital currency, Bitcoin operates\
+    \ on a peer-to-peer network that eliminates the need for intermediaries like banks\
+    \ or governments, offering users direct control over their funds. At its core\
+    \ is blockchain technology, a distributed ledger system that records all transactions\
+    \ transparently and immutably. Each Bitcoin transaction is verified by network\
+    \ nodes through cryptography and added to a block, which is then linked to previous\
+    \ blocks in a chain, ensuring security and trust in the absence of centralized\
+    \ oversight. Bitcoin\u2019s limited supply of 21 million coins, programmed into\
+    \ its code, underpins its scarcity, often compared to precious metals like gold,\
+    \ earning it the nickname \"digital gold.\""
+  image: news/BTC-USDT/01012024/1/chart.png
+  sourcelink: https://example.com/source1
+  sentiment: VeryBullish
+- id: 2
+  title: Prediction 2
+  preview: This is a preview of prediction 2
+  fullContent: "Amazon Web Services (AWS) is a collection of digital infrastructure\
+    \ services that developers can leverage when developing their applications. The\
+    \ services include computing, storage, database, and application synchronization\
+    \ (messaging and queuing). AWS uses a pay-as-you-go service model. You are charged\
+    \ only for the services that you\u2014or your applications\u2014use. Also, to\
+    \ make AWS more approachable as a platform for prototyping and experimentation,\
+    \ AWS offers a free usage tier. On this tier, services are free below a certain\
+    \ level of usage. For more information about AWS costs and the Free Tier, see\
+    \ AWS Free Tier. To obtain an AWS account, open the AWS home page and then choose\
+    \ Create an AWS Account."
+  image: news/BTC-USDT/01012024/2/chart.png
+  sourcelink: https://example.com/source2
+  sentiment: Bullish
+- id: 3
+  title: CoinPedia - Bullish
+  preview: Cardano's Growth Potential and Developments
+  fullContent: "The post Hoskinson Explains Why Cardano; Cardano On Its Way To ATH\
+    \ Amidst Latest Developments? appeared first on Coinpedia Fintech News Amidst\
+    \ the broader market optimism, Cardano\u2019s price has been showing impressive\
+    \ surges lately as evidenced by its recent rally. Additionally, a flurry of developments\
+    \ around its founder Charles Hoskinson has also sparked market optimism. Why Will\
+    \ It Reach An ATH? In a latest X post, Hoskinson has praised the Cardano community.\
+    \ He explained why people \u2026"
+  image: news/BTCUSDT/11172024/3/chart.png
+  sourcelink: https://coinpedia.org/news/hoskinson-explains-why-cardano-cardano-on-its-way-to-ath-amidst-latest-developments/
+  sentiment: Bullish
+- id: 4
+  title: The Daily Hodl - Bearish
+  preview: Analyst Warns Bitcoin Amid Dollar Rally
+  fullContent: "Real Vision\u2019s head crypto analyst Jamie Coutts says that the\
+    \ US dollar is on the verge of foiling the rally for Bitcoin (BTC) and digital\
+    \ assets. While the long-term bullish structure is still intact, Coutts says that\
+    \ a strong dollar is threatening to derail BTC\u2019s movement in the short term.\
+    \ \u201CThe macro backdrop has soured. [\u2026] The post Real Vision Analyst Jamie\
+    \ Coutts Issues Bitcoin Warning Amid Strong Dollar Rally, Says Macro Backdrop\
+    \ Soured appeared first on The Daily Hodl."
+  image: news/BTC-USDT/11172024/4/chart.png
+  sourcelink: https://dailyhodl.com/2024/11/17/real-vision-analyst-jamie-coutts-issues-bitcoin-warning-amid-strong-dollar-rally-says-macro-backdrop-soured/
+  sentiment: Bearish
+- id: 5
+  title: NewsBTC - VeryBullish
+  preview: Shiba Inu destroys 410 trillion tokens.
+  fullContent: "Shiba Inu (SHIB) is garnering attention once more due to a significant\
+    \ rise in its burn rate. Recent statistics indicate a 115% increase in the burn\
+    \ rate, with more than 16.1 million SHIB tokens incinerated in a single week.\
+    \ This increase is noteworthy since it diminishes the circulating supply of SHIB,\
+    \ potentially exerting upward pressure on its price if demand remains constant\
+    \ or escalates. Related Reading: Bitcoin To $800K? Galaxy Digital CEO Unveils\
+    \ Bold 5-10 Year Forecast A Community-Led Initiative The current increase in SHIB\u2019\
+    s burn rate is mostly propelled by community efforts to augment the token\u2019\
+    s worth. Advocates have united to endorse multiple burn events, transferring tokens\
+    \ to inactive wallets and thereby eliminating them from circulation. The total\
+    \ amount of SHIB burned since the year started is a whopping 410 trillion tokens,\
+    \ proving the community\u2019s will to reduce supply and improve scarcity. This\
+    \ milestone corresponds with overarching economic principles: when supply decreases\
+    \ and demand remains stable or increases, the likelihood of price appreciation\
+    \ escalates. The Shiba Inu community asserts that these initiatives would enhance\
+    \ SHIB\u2019s market standing and draw new investors seeking opportunities in\
+    \ the cryptocurrency sector. Market Reaction And Price Fluctuations As a result,\
+    \ the price of SHIB rose following news of this increased burn rate. The value\
+    \ of the token jumped by 27% to around $0.00002753, levels that hadn\u2019t been\
+    \ witnessed for months. A good sign of the state of the market mood among investors\
+    \ is the community\u2019s proactively managed supply strategy. $SHIB is repeating\
+    \ history, and you know what that means\u2026 The parabolic phase is coming! \U0001F4C8\
+    \ Are you ready for some gains? \U0001F680 #SHIB #Crypto pic.twitter.com/C0rNQ2faL4\
+    \ \u2014 SHIB Bezos (@BezosCrypto) November 14, 2024 Additionally, whales in this\
+    \ context have actually been driving this positive sentiment. Major SHIB holders\
+    \ have undertaken large burn transactions, which have then diluted the circulating\
+    \ supply and challenged the community. The bigger whales are going to nudge participation\
+    \ in the market from other, smaller investors with their increased activity in\
+    \ the coin. Related Reading: Solana Rising: Key Metrics Hint At Serious Ethereum\
+    \ Competitor Positive Outlook For Shiba Inu As Shiba Inu progresses, numerous\
+    \ analysts express optimism regarding its potential price fluctuations. Due to\
+    \ heightened burning, enhanced community involvement, and favorable market mood,\
+    \ SHIB may be poised for a substantial gain. Certain analysts forecast that, should\
+    \ prevailing trends continue, SHIB may see price escalations of up to 80% in the\
+    \ near future. At the same time, the Shiba Inu ecosystem will continue to mature\
+    \ with new upcoming projects. These developments should further strengthen user\
+    \ engagement and the overall value proposition of SHIB, even in a competitive\
+    \ marketplace. With a new high in the burn rate of Shiba Inu, this is more than\
+    \ just a good development for its community and investors; it means that by actively\
+    \ burning its supplies and encouraging participation, SHIB might strategically\
+    \ be well-positioned to grow as it continues navigating the evolving cryptocurrency\
+    \ landscape. Featured image from Dall-E, chart from TradingView"
+  image: BTC-USDT/11172024/5/chart.png
+  sourcelink: https://www.newsbtc.com/news/shiba-inu-on-fire-with-over-410-trillion-tokens-destroyed-amid-burn-rate-growth/
+  sentiment: VeryBullish
+- id: 6
+  title: Crypto News Flash - Bullish
+  preview: McDonald's collaborates with Doodles NFTs.
+  fullContent: "McDonald\u2019s partners with Doodles NFTs to launch \u201CGM Spread\
+    \ Joy,\u201D combining vibrant designs and exclusive digital rewards. The campaign\
+    \ merges physical branding with digital innovation, reflecting McDonald\u2019\
+    s strategy to engage younger, tech-savvy audiences. McDonald\u2019s has revealed\
+    \ a novel campaign named \u201CGM Spread Joy\u201D by means of a partnership with\
+    \ the Ethereum NFT series Doodles. Starting [...]"
+  image: news/BTC-USDT/11172024/6/chart.png
+  sourcelink: https://www.crypto-news-flash.com/mcdonalds-teams-up-with-doodles-nfts-for-gm-spread-joy-event/?utm_source=rss&utm_medium=rss&utm_campaign=mcdonalds-teams-up-with-doodles-nfts-for-gm-spread-joy-event
+  sentiment: Bullish
+- id: 7
+  title: AMBCrypto - Neutral
+  preview: Ethereum struggles; potential catalyst for recovery.
+  fullContent: Is Ethereum on the verge of a renaissance despite recent concerns over
+    its performance?
+  image: news/BTC-USDT/11172024/7/chart.png
+  sourcelink: https://ambcrypto.com/ethereum-lags-as-bitcoin-dominates-will-this-turn-things-around-for-eth/
+  sentiment: Neutral
+- id: 8
+  title: Bitcoinist - Bullish
+  preview: Whales, sharks boost XRP to high.
+  fullContent: "The cryptocurrency market has somewhat cooled off over the last few\
+    \ days, but the XRP price seems to have picked up momentum of its own in that\
+    \ period. The usually tame cryptocurrency seems to be decoupling from the market,\
+    \ outperforming the other large-cap assets in the top ten. According to blockchain\
+    \ analytics firm Santiment, the [\u2026]"
+  image: news/BTC-USDT/11172024/8/chart.png
+  sourcelink: https://bitcoinist.com/whales-and-sharks-push-xrp-price-to-new-3-year-high/
+  sentiment: Bullish
+- id: 9
+  title: Crypto News Flash - VeryBullish
+  preview: Crypto billionaires target top altcoins.
+  fullContent: 'Crypto billionaires are turning their attention to a handful of altcoins
+    with the potential for huge gains. These digital currencies are catching the eye
+    of top investors seeking extraordinary opportunities. Discover the five cryptocurrencies
+    that could deliver remarkable returns and learn why they are generating so much
+    excitement in the crypto community. DOGEN: The Ultimate [...]'
+  image: news/BTC-USDT/11172024/9/chart.png
+  sourcelink: https://www.crypto-news-flash.com/these-5-altcoins-are-the-top-picks-for-crypto-billionaires-targeting-10000-returns/?utm_source=rss&utm_medium=rss&utm_campaign=these-5-altcoins-are-the-top-picks-for-crypto-billionaires-targeting-10000-returns
+  sentiment: VeryBullish
+- id: 10
+  title: U.Today - VeryBullish
+  preview: XRP Surpasses Dogecoin After Rally.
+  fullContent: XRP rose to three year high, surpassing $1
+  image: news/BTC-USDT/11172024/10/chart.png
+  sourcelink: https://u.today/xrp-flips-dogecoin-after-epic-rally-past-1
+  sentiment: VeryBullish
+- id: 11
+  title: Cointelegraph - Bearish
+  preview: XRP drops 20% post-multiyear high.
+  fullContent: XRP price corrects after a 56% pump to three-year highs above $1.26
+    as retail traders book profits and tokens move to exchanges en masse.
+  image: news/BTC-USDT/11172024/11/chart.png
+  sourcelink: https://cointelegraph.com/news/xrp-price-retreats-2-multiyear-high-top-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: Bearish
+- id: 12
+  title: COINTURK NEWS - Bullish
+  preview: SOL, SNX, NEIRO Coins Price Forecast
+  fullContent: Cryptocurrency prices are rising despite low trading volumes. Price
+    predictions suggest significant upward potential for SOL, SNX, and NEIRO. Continue
+    Reading:Experts Predict Price Targets for SOL, SNX, and NEIRO Coins The post Experts
+    Predict Price Targets for SOL, SNX, and NEIRO Coins appeared first on COINTURK
+    NEWS.
+  image: news/BTC-USDT/11172024/12/chart.png
+  sourcelink: https://en.coin-turk.com/experts-predict-price-targets-for-sol-snx-and-neiro-coins/
+  sentiment: Bullish

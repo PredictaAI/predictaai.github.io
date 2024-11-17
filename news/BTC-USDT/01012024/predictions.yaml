@@ -1,0 +1,24 @@
+predictions:
+  - id: 1
+    title: "Prediction 1"
+    preview: "This is a preview of prediction 1"
+    fullContent: "This is the full content of prediction 1. It contains more detailed information."
+    image: "BTCUSDT/01012024/1/chart.png"
+    sourcelink: "https://example.com/source1"
+    sentiment: "Very Bullish"
+
+  - id: 2
+    title: "Prediction 2"
+    preview: "This is a preview of prediction 2"
+    fullContent: "This is the full content of prediction 2. It contains more detailed information."
+    image: "BTCUSDT/01012024/2/chart.png"
+    sourcelink: "https://example.com/source2"
+    sentiment: "Bearish"
+
+  - id: 3
+    title: "Prediction 3"
+    preview: "This is a preview of prediction 3"
+    fullContent: "This is the full content of prediction 3. It contains more detailed information."
+    image: "BTCUSDT/01012024/3/chart.png"
+    sourcelink: "https://example.com/source3"
+    sentiment: "Neutral"

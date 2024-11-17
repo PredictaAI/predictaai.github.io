@@ -1,0 +1,21 @@
+predictions:
+  - id: 1
+    title: "BTC Analysis Jan 2"
+    preview: "Bitcoin price movement analysis for January 2nd"
+    fullContent: "Detailed technical analysis of Bitcoin price movements and predictions for January 2nd, 2024."
+    image: "BTCUSDT/02012024/1/chart.png"
+    sourcelink: "https://example.com/btc-analysis-jan2"
+
+  - id: 2
+    title: "Market Sentiment Report"
+    preview: "BTC market sentiment analysis for January 2nd"
+    fullContent: "Comprehensive market sentiment analysis including social metrics and trading volumes for Bitcoin."
+    image: "BTCUSDT/02012024/2/chart.png"
+    sourcelink: "https://example.com/sentiment-jan2"
+
+  - id: 3
+    title: "Technical Indicators Review"
+    preview: "Key technical indicators for BTC/USDT"
+    fullContent: "Analysis of major technical indicators including RSI, MACD, and moving averages for Bitcoin."
+    image: "BTCUSDT/02012024/3/chart.png"
+    sourcelink: "https://example.com/technical-jan2"

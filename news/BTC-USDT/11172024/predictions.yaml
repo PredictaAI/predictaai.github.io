@@ -1,0 +1,314 @@
+predictions:
+- id: 1
+  title: Bitcoin.com - VeryBullish
+  preview: 'Crypto Surge: Bitcoin, DOGE, Pepe Rise'
+  fullContent: "Bitcoin hits historic $90k, DOGE skyrockets as Elon Musk takes on\
+    \ Trump\u2019s quest to slash regulations, and PEPE Surges 40% on Robinhood listing\
+    \ in this Week in Review. Week in Review The crypto market is buzzing as Bitcoin\
+    \ hits a historic $90,000, breaking records and fueling optimism. Meme coins are\
+    \ making waves\u2014PEPE surged 40% following [\u2026]"
+  image: news/BTC-USDT/11172024/1/chart.png
+  sourcelink: https://news.bitcoin.com/bitcoin-hits-90k-doge-moons-on-trump-news-pepe-surges-on-cex-listings-week-in-review/
+  sentiment: VeryBullish
+- id: 2
+  title: NewsBTC - VeryBullish
+  preview: Polkadot price surges, $7.5 targeted.
+  fullContent: "The cryptocurrency market saw some of its best days over the past\
+    \ week, with several altcoins enjoying the positive climate surrounding the industry\
+    \ at the moment. While the top meme coins like Dogecoin, Shiba Inu, and Pepe were\
+    \ the biggest beneficiaries of the recent bullish momentum, altcoins like Polkadot\
+    \ also showed good signs of impending upward movement. According to data from\
+    \ CoinGecko, the Polkadot price has witnessed an almost 15% increase in the last\
+    \ 24 hours. A popular crypto pundit on the social media platform X has said that\
+    \ the bullish run for the DOT token is only just about to commence while predicting\
+    \ the next price target for the altcoin. DOT To Surge 30% In The Next Few Days\
+    \ \u2014 Here\u2019s How In a November 16 post, prominent crypto expert Ali Martinez\
+    \ shared an exciting analysis for the Polkadot price over the next few days. According\
+    \ to the analyst, the current outlook of the altcoin\u2019s price suggests that\
+    \ it might be ready for a significant run to the upside. Related Reading: Bitcoin\
+    \ Surges Past $93,000 \u2013 Can A Breakthrough Unlock New Heights? The rationale\
+    \ behind this bullish projection is the formation of a bull flag pattern on the\
+    \ four-hour timeframe of the Polkadot price chart. The bull flag is a technical\
+    \ analysis pattern marked by a period of steep upward movement (the flagpole)\
+    \ typically followed by slight sideways price action. The bull flag is usually\
+    \ considered a prevailing continuation pattern for an upward trend, signaling\
+    \ a potential move to a higher price point. However, it is important to wait for\
+    \ a confirmed break out of the consolidation before ascertaining that the price\
+    \ will continue its upward trajectory. As shown in the chart above, the price\
+    \ of DOT originally appeared to be in a bull pennant as it moved towards a convergence.\
+    \ However, the Polkadot price broke out of the consolidation period early, forging\
+    \ a bull flag out of what initially seemed like a pennant pattern. Nevertheless,\
+    \ the price of Polkadot appears to be on the rise, with Martinez putting the altcoin\u2019\
+    s next stop at $7.50, which represents a more than 30% rally from the current\
+    \ price point. It is worth mentioning that this exact projection was made by expecting\
+    \ future prices to mirror the length of the initial flagpole. Polkadot Price At\
+    \ A Glance As of this writing, the Polkadot token is valued at around $5.74, reflecting\
+    \ an impressive 15% surge in the past day. Meanwhile, the altcoin\u2019s performance\
+    \ is even more remarkable on the weekly timeframe. According to CoinGecko data,\
+    \ DOT is up by more than 30% in the last seven days. Related Reading: As Bitcoin\
+    \ Rises, Why is Ethereum Struggling To Catch Up? Analyst Explains Featured image\
+    \ from iStock, chart from TradingView"
+  image: news/BTC-USDT/11172024/2/chart.png
+  sourcelink: https://www.newsbtc.com/news/polkadot-dot/polkadot-price-soars-15-in-one-day-heres-why-7-5-might-be-the-next-target/
+  sentiment: VeryBullish
+- id: 3
+  title: U.Today - Neutral
+  preview: DOGE Price Forecast for November
+  fullContent: Has correction of DOGE started yet?
+  image: news/BTC-USDT/11172024/3/chart.png
+  sourcelink: https://u.today/doge-price-prediction-for-november-17
+  sentiment: Neutral
+- id: 4
+  title: Cointelegraph - VeryBullish
+  preview: NFT sales up 94% amid bull.
+  fullContent: The Ethereum network led the week with $67 million in NFT sales, while
+    Bitcoin-based NFTs recorded $60 million in sales over the last seven days.
+  image: news/BTC-USDT/11172024/4/chart.png
+  sourcelink: https://cointelegraph.com/news/nft-weekly-sales-crypto-market-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: VeryBullish
+- id: 5
+  title: CryptoPotato - VeryBullish
+  preview: Bitcoin Could Reach $100K, Says CryptoQuant
+  fullContent: Bitcoin has rallied over 30% since the U.S. presidential election,
+    but high demand and rising stablecoin liquidity could drive the crypto asset above
+    $100K.
+  image: news/BTC-USDT/11172024/5/chart.png
+  sourcelink: https://cryptopotato.com/bitcoin-still-not-overvalued-could-hit-100k-amid-strong-demand-cryptoquant/
+  sentiment: VeryBullish
+- id: 6
+  title: U.Today - VeryBearish
+  preview: Single sell order causes XRP fall.
+  fullContent: XRP facing some serious issues as price drops significantly
+  image: news/BTC-USDT/11172024/6/chart.png
+  sourcelink: https://u.today/xrp-10-price-drop-happened-with-only-1-sell-order
+  sentiment: VeryBearish
+- id: 7
+  title: Crypto News Flash - VeryBullish
+  preview: Coinbase Tops iOS Finance Apps
+  fullContent: "Coinbase tops Apple\u2019s iOS finance category with a record $12\
+    \ billion in trading volume. Coinbase introduces the COIN50 Index and perpetual\
+    \ futures, enhancing investment options for institutional and retail investors.\
+    \ Coinbase\u2019s climb to the top of Apple\u2019s iOS App Store finance category\
+    \ is a big achievement for the crypto exchange. Reflecting a spike in user [...]"
+  image: news/BTC-USDT/11172024/7/chart.png
+  sourcelink: https://www.crypto-news-flash.com/coinbase-surges-to-top-of-ios-finance-apps-after-record-volume/?utm_source=rss&utm_medium=rss&utm_campaign=coinbase-surges-to-top-of-ios-finance-apps-after-record-volume
+  sentiment: VeryBullish
+- id: 8
+  title: AMBCrypto - Bullish
+  preview: Bitcoin approaches $91K amid challenges.
+  fullContent: Buying pressure on Bitcoin increased significantly, but will it be
+    enough to push BTC to an ATH?
+  image: news/BTC-USDT/11172024/8/chart.png
+  sourcelink: https://ambcrypto.com/bitcoin-nears-91k-as-buying-pressure-soars-but-challenges-emerge/
+  sentiment: Bullish
+- id: 9
+  title: COINTURK NEWS - Bullish
+  preview: DOGE Department's Economic Opportunities Highlighted
+  fullContent: Brian Armstrong discusses the significance of the DOGE Department.
+    Republicans gained majorities in both the House and Senate. Continue Reading:Brian
+    Armstrong Highlights Economic Opportunities with New DOGE Department The post
+    Brian Armstrong Highlights Economic Opportunities with New DOGE Department appeared
+    first on COINTURK NEWS.
+  image: news/BTC-USDT/11172024/9/chart.png
+  sourcelink: https://en.coin-turk.com/brian-armstrong-highlights-economic-opportunities-with-new-doge-department/
+  sentiment: Bullish
+- id: 10
+  title: BeInCrypto - VeryBullish
+  preview: MicroStrategy's Bitcoin Reserve Exceeds Corporate Giants
+  fullContent: "MicroStrategy\u2019s decision to shift from traditional cash reserves\
+    \ to Bitcoin has reshaped its financial profile, catapulting the company into\
+    \ the spotlight as a leader in digital asset adoption. This transformation coincides\
+    \ with Bitcoin\u2019s recent surge to unprecedented price levels, significantly\
+    \ boosting MicroStrategy\u2019s standing in corporate financial rankings. Bitcoin-Focused\
+    \ MicroStrategy Outshines IBM and Nike in Asset Reserves The company\u2019s Bitcoin\
+    \ stash, now valued at approximately $26 billion, reportedly surpasses the cash\
+    \ and liquid assets held by giants like IBM, Nike, and Johnson &amp; Johnson.\
+    \ For comparison, CompaniesMarketCap data shows that Nike\u2019s reported cash\
+    \ and securities totaled $10.9 billion as of August, while IBM held $13.7 billion.\
+    \ Johnson &amp; Johnson\u2019s latest quarterly figures listed $20.29 billion.\
+    \ This financial position shows that the niche software provider has redefined\
+    \ its identity by embracing Bitcoin as a core financial asset. However, despite\
+    \ this impressive position, MicroStrategy still trails around 14 companies, including\
+    \ Apple and Alphabet, in terms of corporate treasury assets. MicroStrategy\u2019\
+    s Treasury Source: Bloomberg The company began acquiring Bitcoin in 2020 as a\
+    \ countermeasure against inflation and declining revenue growth. Initially funded\
+    \ through operational cash flow, these purchases expanded to include capital raised\
+    \ via stock sales and convertible debt issuance. To date, MicroStrategy has amassed\
+    \ 279,240 BTC at an average acquisition cost of $42,888, with a total investment\
+    \ of roughly $11.9 billion. This positions the firm as the largest publicly traded\
+    \ Bitcoin holder, controlling around 1.3% of the cryptocurrency\u2019s total supply.\
+    \ What initially faced skepticism has now become a major draw for investors seeking\
+    \ indirect exposure to Bitcoin. The shift in sentiment has propelled MicroStrategy\u2019\
+    s stock by over 2,500% since 2020. This aligns with Bitcoin\u2019s remarkable\
+    \ 700% price growth during the same timeframe. MicroStrategy Bitcoin Holdings.\
+    \ Source: Saylortracker Currently, the unrealized profit of MicroStrategy\u2019\
+    s Bitcoin holdings stands at $13.4 billion, representing a 112% increase. The\
+    \ firm\u2019s Bitcoin yield \u2014 measuring the relationship between its Bitcoin\
+    \ holdings and outstanding shares \u2014 has risen 26.4% year-to-date. However,\
+    \ MicroStrategy\u2019s executive chairman, Michael Saylor, remains steadfast in\
+    \ the company\u2019s Bitcoin-centric vision. The firm plans to raise $42 billion\
+    \ over the coming years to expand its Bitcoin holdings further. Meanwhile, MicroStrategy\
+    \ aims to transform into a trillion-dollar Bitcoin bank, solidifying its role\
+    \ as a pioneer in corporate Bitcoin adoption."
+  image: news/BTC-USDT/11172024/10/chart.png
+  sourcelink: https://beincrypto.com/microstrategy-rises-in-financial-rankings/
+  sentiment: VeryBullish
+- id: 11
+  title: cryptopolitan.com - Neutral
+  preview: Kaixin explores Bitcoin mining in China.
+  fullContent: Kaixin ventures into Bitcoin mining as crypto tide shifts in China
+  image: news/BTC-USDT/11172024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20256447/Kaixin-ventures-into-Bitcoin-mining-as-crypto-tide-shifts-in-China
+  sentiment: Neutral
+- id: 12
+  title: '@DaanCrypto - Neutral'
+  preview: Bitcoin consolidates, expects volatility increase.
+  fullContent: '#Bitcoin Has been consolidating beneath its Friday CME close price.
+
+
+    Not too much volatility &amp; action during this weekend which is something we''ve
+    seen a lot this year.
+
+
+    Would assume volatility picks back up later today and that we likely don''t open
+    up with any sizeable gap.'
+  image: news/BTC-USDT/11172024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20256443/Bitcoin-Has-been-consolidating-beneath-its-Friday-CME-close-price-Not-too-much-volatility-amp-action-during-this-weekend-which-is-something-weve-seen-a-lot-this-year-Would-assume-volatility-picks-back-up-later-today-and-that-we-likely-dont-open-up-with-any
+  sentiment: Neutral
+- id: 13
+  title: bitcoin.com - VeryBullish
+  preview: Bitcoin, DOGE, Pepe surge this week.
+  fullContent: "Bitcoin Hits 90K, DOGE Moons on Trump News, Pepe Surges on CEX Listings\
+    \ \u2014 Week in Review"
+  image: news/BTC-USDT/11172024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20256413/Bitcoin-Hits-90K-DOGE-Moons-on-Trump-News-Pepe-Surges-on-CEX-Listings-Week-in-Review
+  sentiment: VeryBullish
+- id: 14
+  title: newsbtc.com - Bullish
+  preview: Polkadot rises; $7.5 target possible.
+  fullContent: "Polkadot Price Soars 15% In One Day \u2014 Here\u2019s Why $7.5 Might\
+    \ Be The Next Target"
+  image: news/BTC-USDT/11172024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20256415/Polkadot-Price-Soars-15-In-One-Day-Heres-Why-75-Might-Be-The-Next-Target
+  sentiment: Bullish
+- id: 15
+  title: cointelegraph.com - VeryBullish
+  preview: NFT sales skyrocket 94% amid bull.
+  fullContent: NFTs weekly sales surge 94% as crypto market continues bullish run
+  image: news/BTC-USDT/11172024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20256387/NFTs-weekly-sales-surge-94-as-crypto-market-continues-bullish-run
+  sentiment: VeryBullish
+- id: 16
+  title: cryptopotato.com - Bullish
+  preview: Bitcoin may reach $100K soon.
+  fullContent: 'Bitcoin Still Not Overvalued, Could Hit $100K Amid Strong Demand:
+    CryptoQuant'
+  image: news/BTC-USDT/11172024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20256379/Bitcoin-Still-Not-Overvalued-Could-Hit-100K-Amid-Strong-Demand-CryptoQuant
+  sentiment: Bullish
+- id: 17
+  title: ambcrypto.com - Bullish
+  preview: Bitcoin approaches $91K amid challenges.
+  fullContent: Bitcoin nears $91K as buying pressure soars, but challenges emerge
+  image: news/BTC-USDT/11172024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20256247/Bitcoin-nears-91K-as-buying-pressure-soars-but-challenges-emerge
+  sentiment: Bullish
+- id: 18
+  title: cryptopolitan.com - Bullish
+  preview: Bitcoin empowers middle class freedom.
+  fullContent: 'Robert F. Kennedy Jr: Bitcoin is the currency of freedom for middle
+    class Americans'
+  image: news/BTC-USDT/11172024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20256209/Robert-F-Kennedy-Jr-Bitcoin-is-the-currency-of-freedom-for-middle-class-Americans
+  sentiment: Bullish
+- id: 19
+  title: beincrypto.com - VeryBullish
+  preview: MicroStrategy's Bitcoin Reserve Tops Corporates
+  fullContent: "MicroStrategy\u2019s Bitcoin Reserve Surpasses Corporate Giants in\
+    \ Treasury Holdings"
+  image: news/BTC-USDT/11172024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20256208/MicroStrategys-Bitcoin-Reserve-Surpasses-Corporate-Giants-in-Treasury-Holdings
+  sentiment: VeryBullish
+- id: 20
+  title: u.today - Bearish
+  preview: Is Bitcoin topping out now?
+  fullContent: Bitcoin (BTC) Top Is In? What's Happening
+  image: news/BTC-USDT/11172024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20256192/Bitcoin-BTC-Top-Is-In-Whats-Happening
+  sentiment: Bearish
+- id: 21
+  title: coinpedia.org - Bullish
+  preview: Meme coins potential for November gains
+  fullContent: Can These Meme Coins 10x Your $100 to $1,000 This November?
+  image: news/BTC-USDT/11172024/21/chart.png
+  sourcelink: https://cryptopanic.com/news/20256178/Can-These-Meme-Coins-10x-Your-100-to-1000-This-November
+  sentiment: Bullish
+- id: 22
+  title: dailyhodl.com - Bearish
+  preview: Bitcoin Warning Amid Strong Dollar Rally
+  fullContent: Real Vision Analyst Jamie Coutts Issues Bitcoin Warning Amid Strong
+    Dollar Rally, Says Macro Backdrop Soured
+  image: news/BTC-USDT/11172024/22/chart.png
+  sourcelink: https://cryptopanic.com/news/20256174/Real-Vision-Analyst-Jamie-Coutts-Issues-Bitcoin-Warning-Amid-Strong-Dollar-Rally-Says-Macro-Backdrop-Soured
+  sentiment: Bearish
+- id: 23
+  title: newsbtc.com - Bullish
+  preview: Fires destroy 410 trillion Shiba tokens.
+  fullContent: Shiba Inu On Fire With Over 410 Trillion Tokens Destroyed Amid Burn
+    Rate Growth
+  image: news/BTC-USDT/11172024/23/chart.png
+  sourcelink: https://cryptopanic.com/news/20256010/Shiba-Inu-On-Fire-With-Over-410-Trillion-Tokens-Destroyed-Amid-Burn-Rate-Growth
+  sentiment: Bullish
+- id: 24
+  title: cryptodnes.bg - VeryBearish
+  preview: Bitcoin Mixer Founder Gets 3-Year Sentence
+  fullContent: Bitcoin Mixer Founder Sentenced to 3 Years for Laundering Over $300
+    Million in BTC
+  image: news/BTC-USDT/11172024/24/chart.png
+  sourcelink: https://cryptopanic.com/news/20256033/Bitcoin-Mixer-Founder-Sentenced-to-3-Years-for-Laundering-Over-300-Million-in-BTC
+  sentiment: VeryBearish
+- id: 25
+  title: ambcrypto.com - Bearish
+  preview: Bitcoin dominance questioned, Ethereum's future?
+  fullContent: 'Ethereum lags as Bitcoin dominates: Will THIS turn things around for
+    ETH?'
+  image: news/BTC-USDT/11172024/25/chart.png
+  sourcelink: https://cryptopanic.com/news/20256045/Ethereum-lags-as-Bitcoin-dominates-Will-THIS-turn-things-around-for-ETH
+  sentiment: Bearish
+- id: 26
+  title: ecoinimist.com - Bullish
+  preview: Best Bitcoin Miners for Profitability
+  fullContent: Top Bitcoin Miners for Maximum Profitability
+  image: news/BTC-USDT/11172024/26/chart.png
+  sourcelink: https://cryptopanic.com/news/20255946/Top-Bitcoin-Miners-for-Maximum-Profitability
+  sentiment: Bullish
+- id: 27
+  title: coinpedia.org - Bullish
+  preview: Bitcoin holdings surpass IBM, Nike value.
+  fullContent: "Microstrategy\u2019s $26 Billion Bitcoin Stash Now Exceeds IBM and\
+    \ Nike Holdings"
+  image: news/BTC-USDT/11172024/27/chart.png
+  sourcelink: https://cryptopanic.com/news/20255947/Microstrategys-26-Billion-Bitcoin-Stash-Now-Exceeds-IBM-and-Nike-Holdings
+  sentiment: Bullish
+- id: 28
+  title: zycrypto.com - Bullish
+  preview: Whales Adopt Binance Amidst Exchange Rivalry
+  fullContent: Bitcoin Whales Are Embracing Binance as Exchange Battle Thickens
+  image: news/BTC-USDT/11172024/28/chart.png
+  sourcelink: https://cryptopanic.com/news/20255938/Bitcoin-Whales-Are-Embracing-Binance-as-Exchange-Battle-Thickens
+  sentiment: Bullish
+- id: 29
+  title: newsbtc.com - Bullish
+  preview: XRP Accumulation Hits 5-Year High
+  fullContent: "Whale Alert: XRP Accumulation Reaches 5-Year Peak \u2013 Details"
+  image: news/BTC-USDT/11172024/29/chart.png
+  sourcelink: https://cryptopanic.com/news/20255752/Whale-Alert-XRP-Accumulation-Reaches-5-Year-Peak-Details
+  sentiment: Bullish
+- id: 30
+  title: zycrypto.com - Bullish
+  preview: Co-Founder Suggests U.S. DOGE Reserve
+  fullContent: Dogecoin Co-Founder Floats Epic Idea Of U.S. DOGE Strategic Reserve
+    Amid Latest Price Boom
+  image: news/BTC-USDT/11172024/30/chart.png
+  sourcelink: https://cryptopanic.com/news/20255749/Dogecoin-Co-Founder-Floats-Epic-Idea-Of-US-DOGE-Strategic-Reserve-Amid-Latest-Price-Boom
+  sentiment: Bullish
