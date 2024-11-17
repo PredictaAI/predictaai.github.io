@@ -56,22 +56,17 @@ body {
     padding: 0 1rem;
 }
 
-/* Navigation */
-nav {
-    background: linear-gradient(to bottom, var(--navbar-bg), var(--card-bg));
-    border-bottom: 1px solid var(--secondary-border);
-    box-shadow: var(--shadow-sm);
-    position: relative;
-}
-
 .nav-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 4rem;
+    height: auto; /* Changed from fixed height */
     padding: 0.5rem 0;
+    flex-wrap: wrap; /* Allow wrapping on small screens */
+    gap: 1rem; /* Space between wrapped elements */
 }
 
+/* Logo Container */
 .logo-container {
     display: flex;
     align-items: center;
@@ -80,6 +75,81 @@ nav {
     border-radius: 0.5rem;
     background: var(--card-bg);
     box-shadow: var(--shadow-sm);
+    flex-shrink: 0; /* Prevent logo from shrinking */
+}
+
+/* Navigation */
+nav {
+    background: linear-gradient(to bottom, var(--navbar-bg), var(--card-bg));
+    border-bottom: 1px solid var(--secondary-border);
+    box-shadow: var(--shadow-sm);
+    position: relative;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background: var(--card-bg);
+    box-shadow: var(--shadow-sm);
+    flex-wrap: wrap; /* Allow controls to wrap */
+    gap: 0.5rem; /* Space between wrapped elements */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .nav-content {
+        flex-direction: column; /* Stack elements vertically */
+        padding: 1rem 0;
+    }
+
+    .logo-container {
+        width: 100%; /* Full width on mobile */
+        justify-content: center; /* Center logo */
+    }
+
+    .controls {
+        width: 100%; /* Full width on mobile */
+        justify-content: center; /* Center controls */
+    }
+
+    h1 {
+        font-size: 1rem; /* Smaller font size on mobile */
+    }
+
+    /* Adjust input sizes */
+    select, input[type="date"], .theme-toggle {
+        font-size: 0.875rem;
+        padding: 0.4rem;
+    }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+    .controls {
+        flex-direction: column; /* Stack controls vertically */
+        width: 90%; /* Slightly less than full width */
+        gap: 0.75rem;
+    }
+
+    select, input[type="date"] {
+        width: 100%; /* Full width inputs */
+        margin-left: 0; /* Remove left margin */
+    }
+
+    .theme-toggle {
+        margin-left: 0; /* Remove left margin */
+    }
+}
+
+/* Container responsiveness */
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    width: 100%;
+    box-sizing: border-box; /* Include padding in width calculation */
 }
 
 .logo {
