@@ -1,0 +1,288 @@
+predictions:
+- id: 1
+  title: GG by Decrypt - Neutral
+  preview: Dogecoin game, token date, cash prizes
+  fullContent: "Catch up on this week\u2019s biggest crypto and NFT gaming news and\
+    \ find some weekend reads in our latest roundup."
+  image: news/BTC-USDT/11182024/1/chart.png
+  sourcelink: https://decrypt.co/291860/this-week-crypto-games-dogecoin-major-off-grid
+  sentiment: Neutral
+- id: 2
+  title: Bitcoin.com - VeryBullish
+  preview: Cathie Wood reaffirms Bitcoin's $1.5M potential.
+  fullContent: "Ark Invest CEO Cathie Wood has doubled down on her $1.5 million \u201C\
+    bull case\u201D bitcoin forecast, citing factors such as institutional adoption,\
+    \ potential regulatory relief, and BTC\u2019s growing recognition as a unique\
+    \ asset class. Cathie Wood Predicts Bitcoin Could Hit $1.5M Amid Growing Institutional\
+    \ Interest Cathie Wood, CEO and CIO of asset management firm Ark [\u2026]"
+  image: news/BTC-USDT/11182024/2/chart.png
+  sourcelink: https://news.bitcoin.com/ark-invest-ceo-cathie-wood-doubles-down-on-bitcoins-1-5m-bull-case-as-optimism-soars/
+  sentiment: VeryBullish
+- id: 3
+  title: COINTURK NEWS - Neutral
+  preview: Republicans address Prometheum's Ethereum custody concerns.
+  fullContent: "Republican members raised concerns over Prometheum\u2019s Ethereum\
+    \ custody services. They questioned the SEC and FINRA's responses to regulatory\
+    \ ambiguities. Continue Reading:Republican Members Address SEC and FINRA Concerns\
+    \ Over Prometheum\u2019s Ethereum Custody Services The post Republican Members\
+    \ Address SEC and FINRA Concerns Over Prometheum\u2019s Ethereum Custody Services\
+    \ appeared first on COINTURK NEWS."
+  image: news/BTC-USDT/11182024/3/chart.png
+  sourcelink: https://en.coin-turk.com/republican-members-address-sec-and-finra-concerns-over-prometheums-ethereum-custody-services/
+  sentiment: Neutral
+- id: 4
+  title: U.Today - Neutral
+  preview: XRP Rises, SHIB Lags, BTC Diverges
+  fullContent: The market is clearly in a pivotal state
+  image: news/BTC-USDT/11182024/4/chart.png
+  sourcelink: https://u.today/xrp-skyrocketing-will-it-continue-or-end-here-shiba-inu-shib-is-missing-out-massively-bitcoin-btc
+  sentiment: Neutral
+- id: 5
+  title: AMBCrypto - Bullish
+  preview: Dogwifhat's projected 22% rise potential.
+  fullContent: With the recent bullish pattern breakout, WIF could soar by 22% to
+    reach the $4.70 level.
+  image: news/BTC-USDT/11182024/5/chart.png
+  sourcelink: https://ambcrypto.com/is-dogwifhat-ready-to-soar-why-wif-can-see-a-22-rise/
+  sentiment: Bullish
+- id: 6
+  title: BeInCrypto - Neutral
+  preview: Network Achieves Landmark Amidst Copying Allegations
+  fullContent: "Coinbase\u2019s Ethereum Layer-2 network, Base, found itself at the\
+    \ center of controversy during the celebration of its 1 billionth transaction.\
+    \ The celebration included the release of an NFT, which inadvertently copied the\
+    \ work of digital artist Chris Biron. Base Hits 1 Billion Transaction On November\
+    \ 15, Coinbase-backed Base proudly announced that it had completed 1 billion transactions\
+    \ since its launch in August 2023. This milestone was achieved in just over a\
+    \ year, a remarkable feat compared to established networks like Bitcoin, which\
+    \ took more than 15 years to reach similar numbers. Base\u2019s rapid rise is\
+    \ no surprise. The network has quickly become the fastest-growing Ethereum layer-2\
+    \ solution, surpassing competitors like Optimism and Arbitrum. A recent report\
+    \ by CoinGecko ranked Base as the second most popular blockchain in 2024, with\
+    \ the network now capturing nine times more interest than its closest Layer-2\
+    \ competitor, Arbitrum. \u201CBase ecosystem has seen its share of investor interest\
+    \ increase by over 5 times since Q1, raising the layer 2 ecosystem\u2019s ranking\
+    \ from seventh to second, and overtaking its layer 1 Ethereum ecosystem. This\
+    \ also means that the Base ecosystem now captures 9 times more interest than the\
+    \ next most popular layer 2 ecosystem Arbitrum,\u201D Coingecko stated. Base\u2019\
+    s Total Value Locked. Source: L2Beat Market observers have attributed the network\u2019\
+    s rapid growth to the robust support and resources provided by Coinbase, the $76\
+    \ billion crypto exchange that operates Base. Moreover, Coinbase brand power as\
+    \ the largest cryptocurrency exchange in the US has also undoubtedly contributed\
+    \ to Base success. NFT Controversy and Apology To commemorate the 1 billion transaction\
+    \ achievement, Base minted an NFT. However, the artwork bore a striking resemblance\
+    \ to a creation by digital artist Chris Biron, who accused the network of copying\
+    \ his work without credit. Biron claimed that Base had already earned over $36,000\
+    \ in profits from the NFT at the time of his complaint. \u201CI usually like it\
+    \ when someone recreates/remixes my work. But when a 76 billion dollar corporation\
+    \ copies it, sells it, and gets $36k+ in profit without attributing me at all,\
+    \ it feels less fun,\u201D Biron stated. In response to the backlash, Base lead\
+    \ developer Jesse Pollak issued a public apology, explaining that the incident\
+    \ was unintentional. The Coinbase-backed network also admitted that its artwork\
+    \ unintentionally mirrored Biron\u2019s work and promised to improve its processes\
+    \ to prevent similar issues in the future. \u201CCreativity often draws from a\
+    \ pool of shared inspiration, and while designing this piece we unintentionally\
+    \ mirrored the work of another artist without attribution We\u2019re sorry, and\
+    \ we\u2019ll be sending 100% of the proceeds to Biron,\u201D Base wrote. Biron\
+    \ appreciated Base\u2019s response, calling it a \u201Cclass act\u201D and praising\
+    \ the team for respectfully handling the situation."
+  image: news/BTC-USDT/11182024/6/chart.png
+  sourcelink: https://beincrypto.com/coinbases-base-achieves-billion-transactions/
+  sentiment: Neutral
+- id: 7
+  title: The Block - Bullish
+  preview: Hackathon finalists present AI, crypto, DAOs.
+  fullContent: Developers at ETHGlobal's hackathon trained AI agents, developed new
+    infrastructure, and built new crypto games.
+  image: news/BTC-USDT/11182024/7/chart.png
+  sourcelink: https://www.theblock.co/post/326975/ethglobal-hackathons-10-finalists-showcase-ai-agents-crypto-games-dao-tools-and-more?utm_source=rss&utm_medium=rss
+  sentiment: Bullish
+- id: 8
+  title: Bitcoin.com - Bullish
+  preview: Ripple CEO's Trump meeting speculation.
+  fullContent: "Ripple CEO Brad Garlinghouse\u2019s remarks amid XRP\u2019s surge\
+    \ have fueled speculation of Trump talks, highlighting hopes for a pro-crypto\
+    \ regulatory shift and clearer policies. Ripple CEO\u2019s Remarks Spark Rumors\
+    \ of Presidential Talks During XRP Surge Ripple CEO Brad Garlinghouse has ignited\
+    \ speculation about his political connections amid a significant rise in XRP\u2019\
+    s value. During a [\u2026]"
+  image: news/BTC-USDT/11182024/8/chart.png
+  sourcelink: https://news.bitcoin.com/did-ripples-ceo-meet-trump-cryptic-remarks-fuel-xrps-surge-and-speculation/
+  sentiment: Bullish
+- id: 9
+  title: Cointelegraph - VeryBullish
+  preview: Starknet plans significant TPS increase soon.
+  fullContent: StarkWare is looking to reduce its already cheap fees as it anticipates
+    a boom in blockchain activity and gas fees in the coming months.
+  image: news/BTC-USDT/11182024/9/chart.png
+  sourcelink: https://cointelegraph.com/news/starknet-to-increase-tps-as-fees-fall-within-3-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: VeryBullish
+- id: 10
+  title: Crypto.news - Bullish
+  preview: Senator suggests selling gold for Bitcoin.
+  fullContent: "U.S. Senator Cynthia Lummis proposed a Bitcoin national strategic\
+    \ reserve by selling some of The Federal Reserve\u2019s gold, rather than buying\
+    \ from government budget. Cynthia Lummis, a Republican Senator, plans to push\
+    \ President-elect Donald Trump\u2019s masterplan for Bitcoin into reality.\u2026"
+  image: news/BTC-USDT/11182024/10/chart.png
+  sourcelink: https://crypto.news/us-senator-buy-more-bitcoin-by-sell-the-fed-gold/
+  sentiment: Bullish
+- id: 11
+  title: thecoinrepublic.com - Neutral
+  preview: BTC, ETH options expiry approaches.
+  fullContent: 'Countdown To $4B BTC, ETH Options Expiry: Will Markets React?'
+  image: news/BTC-USDT/11182024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20258967/Countdown-To-4B-BTC-ETH-Options-Expiry-Will-Markets-React
+  sentiment: Neutral
+- id: 12
+  title: bitcoin.com - VeryBullish
+  preview: Cathie Wood bullish on Bitcoin's future.
+  fullContent: "Ark Invest CEO Cathie Wood Doubles Down on Bitcoin\u2019s $1.5M Bull\
+    \ Case as Optimism Soars"
+  image: news/BTC-USDT/11182024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20258958/Ark-Invest-CEO-Cathie-Wood-Doubles-Down-on-Bitcoins-15M-Bull-Case-as-Optimism-Soars
+  sentiment: VeryBullish
+- id: 13
+  title: u.today - Neutral
+  preview: XRP Surges; SHIB Lags; BTC Diverges
+  fullContent: 'XRP Skyrocketing: Will It Continue or End Here? Shiba Inu (SHIB) is
+    Missing Out Massively, Bitcoin (BTC) Paints Problematic Divergence'
+  image: news/BTC-USDT/11182024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20258920/XRP-Skyrocketing-Will-It-Continue-or-End-Here-Shiba-Inu-SHIB-is-Missing-Out-Massively-Bitcoin-BTC-Paints-Problematic-Divergence
+  sentiment: Neutral
+- id: 14
+  title: beincrypto.com - Neutral
+  preview: Base Network hits 1B, faces copying accusations.
+  fullContent: Base Network Reaches 1 billion Transactions But Faces NFT Copying Accusations
+  image: news/BTC-USDT/11182024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20258935/Base-Network-Reaches-1-billion-Transactions-But-Faces-NFT-Copying-Accusations
+  sentiment: Neutral
+- id: 15
+  title: cryptopolitan.com - Bullish
+  preview: Candidate Mentzen promises Bitcoin Reserve.
+  fullContent: "Polish Presidential Candidate S\u0142awomir Mentzen promises to implement\
+    \ Bitcoin Reserve if elected"
+  image: news/BTC-USDT/11182024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20258762/Polish-Presidential-Candidate-Sawomir-Mentzen-promises-to-implement-Bitcoin-Reserve-if-elected
+  sentiment: Bullish
+- id: 16
+  title: newsbtc.com - VeryBullish
+  preview: OM Reaches ATH with 132% Surge
+  fullContent: "Mantra (OM) Hits New ATH On 132% Weekly Surge \u2013 Details"
+  image: news/BTC-USDT/11182024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20258697/Mantra-OM-Hits-New-ATH-On-132-Weekly-Surge-Details
+  sentiment: VeryBullish
+- id: 17
+  title: newsbtc.com - Bearish
+  preview: Miners sold 3,000 BTC recently.
+  fullContent: "Bitcoin Miners Sold Over 3,000 BTC In The Past 48 Hours \u2013 Consolidation\
+    \ Phase Ahead?"
+  image: news/BTC-USDT/11182024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20258498/Bitcoin-Miners-Sold-Over-3000-BTC-In-The-Past-48-Hours-Consolidation-Phase-Ahead
+  sentiment: Bearish
+- id: 18
+  title: theblock.co - Bullish
+  preview: Crypto VCs discuss post-Trump future.
+  fullContent: "The Funding: A dozen crypto VCs share what\u2019s next after Trump\u2019\
+    s win and bitcoin\u2019s surge"
+  image: news/BTC-USDT/11182024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20258455/The-Funding-A-dozen-crypto-VCs-share-whats-next-after-Trumps-win-and-bitcoins-surge
+  sentiment: Bullish
+- id: 19
+  title: cointelegraph.com - Bullish
+  preview: RFK fully commits wealth to Bitcoin.
+  fullContent: "'I put most of my wealth into Bitcoin, so I am fully committed' \u2014\
+    \ RFK"
+  image: news/BTC-USDT/11182024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20258454/I-put-most-of-my-wealth-into-Bitcoin-so-I-am-fully-committed-RFK
+  sentiment: Bullish
+- id: 20
+  title: thecoinrepublic.com - Neutral
+  preview: Analyst Predicts Duration of Bitcoin Bull.
+  fullContent: How Long Will Bitcoin (BTC) Bull Market Last? Analyst Explains
+  image: news/BTC-USDT/11182024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20258443/How-Long-Will-Bitcoin-BTC-Bull-Market-Last-Analyst-Explains
+  sentiment: Neutral
+- id: 21
+  title: '@DaanCrypto - VeryBullish'
+  preview: Bitcoin breaks out to new highs.
+  fullContent: '#Bitcoin After 8 months of consolidation, it finally broke out and
+    made new all time highs.
+
+
+    The expansion has been quick so far which was not something that has been surprising,
+    seeing how long price consolidated below its previous all time high.'
+  image: news/BTC-USDT/11182024/21/chart.png
+  sourcelink: https://cryptopanic.com/news/20258431/Bitcoin-After-8-months-of-consolidation-it-finally-broke-out-and-made-new-all-time-highs-The-expansion-has-been-quick-so-far-which-was-not-something-that-has-been-surprising-seeing-how-long-price-consolidated-below-its-previous-all-time-high
+  sentiment: VeryBullish
+- id: 22
+  title: newsbtc.com - VeryBullish
+  preview: Solana surpasses $225; ATH possible?
+  fullContent: "Solana Breaks Above Key Resistance At $225 \u2013 ATH Next?"
+  image: news/BTC-USDT/11182024/22/chart.png
+  sourcelink: https://cryptopanic.com/news/20258352/Solana-Breaks-Above-Key-Resistance-At-225-ATH-Next
+  sentiment: VeryBullish
+- id: 23
+  title: dailyhodl.com - Bearish
+  preview: BTC launderer receives three-year sentence.
+  fullContent: "BTC Launderer Given \u2018Lenient\u2019 Three-Year Prison Sentence\
+    \ for Assisting With Bitcoin Fog Case: Report"
+  image: news/BTC-USDT/11182024/23/chart.png
+  sourcelink: https://cryptopanic.com/news/20258344/BTC-Launderer-Given-Lenient-Three-Year-Prison-Sentence-for-Assisting-With-Bitcoin-Fog-Case-Report
+  sentiment: Bearish
+- id: 24
+  title: '@BTC_Archive - VeryBullish'
+  preview: Paul Tudor Jones quintupled Bitcoin holdings.
+  fullContent: "JUST IN: Billionaire investor Paul Tudor Jones has increased his fund's\
+    \ #Bitcoin holdings by 5x to $159.9 million through BlackRock's ETF - SEC filings\n\
+    \n\U0001FAE1 @MacroScope17"
+  image: news/BTC-USDT/11182024/24/chart.png
+  sourcelink: https://cryptopanic.com/news/20258327/JUST-IN-Billionaire-investor-Paul-Tudor-Jones-has-increased-his-funds-Bitcoin-holdings-by-5x-to-1599-million-through-BlackRocks-ETF-SEC-filings-MacroScope17
+  sentiment: VeryBullish
+- id: 25
+  title: bitcoin.com - Bullish
+  preview: "Bitcoin\u2019s $90K: Temporary or Transformative?"
+  fullContent: "Bitcoin\u2019s $90K Era: A Fleeting Moment or the Start of a New Chapter?"
+  image: news/BTC-USDT/11182024/25/chart.png
+  sourcelink: https://cryptopanic.com/news/20258308/Bitcoins-90K-Era-A-Fleeting-Moment-or-the-Start-of-a-New-Chapter
+  sentiment: Bullish
+- id: 26
+  title: coinpaprika.com - Bullish
+  preview: Musk supports Bitcoin advocate for Treasury.
+  fullContent: Elon Musk Backs Pro-Bitcoin Candidate for Treasury Secretary
+  image: news/BTC-USDT/11182024/26/chart.png
+  sourcelink: https://cryptopanic.com/news/20258294/Elon-Musk-Backs-Pro-Bitcoin-Candidate-for-Treasury-Secretary
+  sentiment: Bullish
+- id: 27
+  title: cryptopolitan.com - Bullish
+  preview: Bitcoin rise surprises financial advisors.
+  fullContent: Bitcoin surge catches personal finance advisors off-guard
+  image: news/BTC-USDT/11182024/27/chart.png
+  sourcelink: https://cryptopanic.com/news/20258297/Bitcoin-surge-catches-personal-finance-advisors-off-guard
+  sentiment: Bullish
+- id: 28
+  title: cointelegraph.com - VeryBullish
+  preview: SOL, AVAX, SUI, NEAR rise Bitcoin
+  fullContent: SOL, AVAX, SUI and NEAR advance as Bitcoin price trades in the $90K
+    zone
+  image: news/BTC-USDT/11182024/28/chart.png
+  sourcelink: https://cryptopanic.com/news/20258292/SOL-AVAX-SUI-and-NEAR-advance-as-Bitcoin-price-trades-in-the-90K-zone
+  sentiment: VeryBullish
+- id: 29
+  title: '@BTC_Archive - Bullish'
+  preview: Polish candidate plans Bitcoin reserve.
+  fullContent: "BREAKING: \U0001F1F5\U0001F1F1 The 3rd #Bitcoin President?\n\nPolish\
+    \ presidential candidate, Slawomir Mentzen, owns 33.7 $BTC worth over $3 million.\n\
+    \nHe has just vowed to follow Donald Trump's lead and create a Strategic Bitcoin\
+    \ Reserve if he wins elections."
+  image: news/BTC-USDT/11182024/29/chart.png
+  sourcelink: https://cryptopanic.com/news/20258299/BREAKING-The-3rd-Bitcoin-President-Polish-presidential-candidate-Slawomir-Mentzen-owns-337-BTC-worth-over-3-million-He-has-just-vowed-to-follow-Donald-Trumps-lead-and-create-a-Strategic-Bitcoin-Reserve-if-he-wins-elections
+  sentiment: Bullish
+- id: 30
+  title: '@BTC_Archive - VeryBullish'
+  preview: Polish candidate plans Bitcoin reserve.
+  fullContent: "BREAKING: \U0001F1F5\U0001F1F1 Polish presidential candidate, Slawomir\
+    \ Mentzen, to create a Strategic #Bitcoin Reserve if he wins. \n\nLFG! "
+  image: news/BTC-USDT/11182024/30/chart.png
+  sourcelink: https://cryptopanic.com/news/20258278/BREAKING-Polish-presidential-candidate-Slawomir-Mentzen-to-create-a-Strategic-Bitcoin-Reserve-if-he-wins-LFG
+  sentiment: VeryBullish
