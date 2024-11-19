@@ -1,0 +1,290 @@
+predictions:
+- id: 1
+  title: Crypto.news - VeryBullish
+  preview: Major crypto product sees $2.2B inflow.
+  fullContent: "CoinShares, a digital asset manager, reported that last week crypto\
+    \ products saw a major inflow from institutional investors of up to $2.2 billion.\
+    \ The latest U.S. Election, on Nov. 5, still stimulated the weekly cryptocurrency\
+    \ inflow up to $2.2 billion.\u2026"
+  image: news/BTC-USDT/11192024/1/chart.png
+  sourcelink: https://crypto.news/crypto-product-record-major-inflow-up-to-2-2-billion/
+  sentiment: VeryBullish
+- id: 2
+  title: COINTURK NEWS - Bearish
+  preview: Winklevoss Challenges Gensler's Integrity Claim
+  fullContent: "Tyler Winklevoss criticizes Gary Gensler's moral character and leadership\
+    \ at the SEC. Winklevoss calls for a boycott of organizations working with Gensler\
+    \ post-tenure. Continue Reading:Tyler Winklevoss Questions Gary Gensler\u2019\
+    s Integrity The post Tyler Winklevoss Questions Gary Gensler\u2019s Integrity\
+    \ appeared first on COINTURK NEWS."
+  image: news/BTC-USDT/11192024/2/chart.png
+  sourcelink: https://en.coin-turk.com/tyler-winklevoss-questions-gary-genslers-integrity/
+  sentiment: Bearish
+- id: 3
+  title: AMBCrypto - Bullish
+  preview: Mantra crypto surges; re-entry levels.
+  fullContent: OM whales' long positions remained unchanged despite the massive triple-digit
+    gains hit last week.
+  image: news/BTC-USDT/11192024/3/chart.png
+  sourcelink: https://ambcrypto.com/mantra-crypto-soars-65-in-24-hours-exploring-key-re-entry-levels/
+  sentiment: Bullish
+- id: 4
+  title: The Daily Hodl - Bullish
+  preview: Ethereum, Solana up; Memecoin outperforms.
+  fullContent: "A closely followed crypto strategist thinks layer-1 rivals Ethereum\
+    \ (ETH) and Solana (SOL) are gearing up for rallies to new all-time highs. Pseudonymous\
+    \ analyst Inmortal tells his 217,500 followers on the social media platform X\
+    \ that he believes Ethereum is in the midst of a brief consolidation period before\
+    \ rallies to new record-high levels. The [\u2026] The post Analyst Predicts Rallies\
+    \ to New All-Time Highs for Ethereum and Solana, Calls One Memecoin the \u2018\
+    Outperformer\u2019 appeared first on The Daily Hodl."
+  image: news/BTC-USDT/11192024/4/chart.png
+  sourcelink: https://dailyhodl.com/2024/11/18/analyst-predicts-rallies-to-new-all-time-highs-for-ethereum-and-solana-calls-one-memecoin-the-outperformer/
+  sentiment: Bullish
+- id: 5
+  title: Bitcoinist - Neutral
+  preview: 'Analyst: Dogecoin rally may continue.'
+  fullContent: "The Dogecoin price correction extended throughout the weekend, teasing\
+    \ what might be the steady end of a powerful rally in the previous four weeks.\
+    \ The popular meme-based cryptocurrency dropped to a low of $0.3431, retreating\
+    \ from a recent high of $0.4265. This 19.55% decline has sparked speculation on\
+    \ social media about the sustainability of its gains [\u2026]"
+  image: news/BTC-USDT/11192024/5/chart.png
+  sourcelink: https://bitcoinist.com/dogecoin-price-rally-over/
+  sentiment: Neutral
+- id: 6
+  title: Cointelegraph - Bullish
+  preview: Genius Group initiates $10M Bitcoin investment.
+  fullContent: Genius Group has plans for a podcast to help other firms considering
+    Bitcoin as a treasury reserve asset after they found there was no clear blueprint
+    for the process.
+  image: news/BTC-USDT/11192024/6/chart.png
+  sourcelink: https://cointelegraph.com/news/genius-group-stocks-up-treasury-with-110-bitcoin-for-10-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: Bullish
+- id: 7
+  title: Cointelegraph - VeryBearish
+  preview: BIT Mining's $10M fine for bribery.
+  fullContent: BIT Mining, previously known as online sports casino 500.com, made
+    around $2.5 million worth of bribes to Japanese officials between 2017 and 2019.
+  image: news/BTC-USDT/11192024/7/chart.png
+  sourcelink: https://cointelegraph.com/news/bit-mining-10-million-fine-bribing-japanese-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: VeryBearish
+- id: 8
+  title: COINTURK NEWS - Bullish
+  preview: Binance Futures introduces new trading contracts.
+  fullContent: Binance Futures launched trading contracts for Comedian and Akash Network.
+    Both assets experienced significant price increases following the listing. Continue
+    Reading:Binance Futures Launches Trading Contracts for Comedian and Akash Network
+    The post Binance Futures Launches Trading Contracts for Comedian and Akash Network
+    appeared first on COINTURK NEWS.
+  image: news/BTC-USDT/11192024/8/chart.png
+  sourcelink: https://en.coin-turk.com/binance-futures-launches-trading-contracts-for-comedian-and-akash-network/
+  sentiment: Bullish
+- id: 9
+  title: Bitcoin.com - Neutral
+  preview: End income tax, tax businesses instead.
+  fullContent: "Coinbase CEO Brian Armstrong wants to scrap income taxes entirely,\
+    \ dumping the 150,000-page tax code and shifting the chaos to businesses. Coinbase\u2019\
+    s CEO Challenges America\u2019s Tax Code Chaos With Controversial Idea Brian Armstrong,\
+    \ CEO of cryptocurrency exchange Coinbase (Nasdaq: COIN), has proposed a sweeping\
+    \ change to the U.S. tax system, calling for the elimination of [\u2026]"
+  image: news/BTC-USDT/11192024/9/chart.png
+  sourcelink: https://news.bitcoin.com/coinbase-ceo-advocates-ending-individual-income-tax-entirely-shifting-burden-to-businesses/
+  sentiment: Neutral
+- id: 10
+  title: NewsBTC - VeryBullish
+  preview: XRP's ATH Predictions Supported by Google.
+  fullContent: "Recently, XRP has gained immense attention in the cryptocurrency world.\
+    \ Its price recently touched new highs and attracted unparalleled public interest.\
+    \ According to Google Trends, search interest for XRP surged on November 16 up\
+    \ to a perfect score of 100. Related Reading: XRP Breaks $1 \u2014 Is The Garlinghouse-Trump\
+    \ Connection Fueling The Rise? This significant increase occurred mere days after\
+    \ interest had been stagnant at a measly 8, illustrating the rapidity with which\
+    \ sentiment can fluctuate in the cryptocurrency sector. A Remarkable Increase\
+    \ In Price The increase in search interest is in ideal harmony with the price\
+    \ performance of the coin. The altcoin was trading at approximately $0.77 on November\
+    \ 15, but it had risen to $1.27 by the following day, a remarkable 64% increase\
+    \ in just 24 hours. The current price of XRP is the highest it has been in three\
+    \ years, and many investors are enthusiastic about its potential to attain even\
+    \ greater heights. The most recent instance of a significant increase in interest\
+    \ in the crypto occurred in April 2021, when it reached a high of $1.96. Given\
+    \ the tumultuous history of XRP over the past few years, this recent rally is\
+    \ of particular importance. Now that it has regained its traction, the stagnation\
+    \ period and challenges it experienced have come to an end, and the price levels\
+    \ of the coin are hovering around the $0.40 dollar levels. Analysts are upbeat\
+    \ about its future, noting that the cryptocurrency remains well below its all-time\
+    \ high of $3.84, leaving ample room for potential growth. Factors Contributing\
+    \ To The Increase Newfound enthusiasm for XRP is being driven by a variety of\
+    \ factors. One significant factor is the accumulation of the digital asset by\
+    \ large investors, who are frequently referred to as \u201Cwhales.\u201D According\
+    \ to reports, these investors have recently invested more than $526 million in\
+    \ XRP, indicating their strong confidence in the cryptocurrency\u2019s future\
+    \ potential. Additionally, the recent increase in open interest for XRP futures\
+    \ indicates that traders are anticipating additional volatility and price fluctuations.\
+    \ The demand for XRP is on the rise as more retail investors become involved in\
+    \ the coin\u2019s promise, motivated by the fear of missing out (FOMO). XRP: Regional\
+    \ Trends And Global Interest Interest in XRP is a worldwide phenomena, not limited\
+    \ in any one area at once. According to the statistics, searches for XRP point\
+    \ the charge towards the Netherlands, Australia, Ireland, Finland, and Slovenia.\
+    \ This general curiosity reflects a more general trend of revived interest in\
+    \ cryptocurrencies as they gather traction among regular investors. Related Reading:\
+    \ Shiba Inu (SHIB) Ready To Roar! Analyst Calls For A 200% Spike XRP currently\
+    \ trades at around $1.18. It has been able to maintain its price above $1, while\
+    \ even undergoing minor drawdowns. The digital asset has seen a whopping gain\
+    \ of more than 104% within the last week. Market observers wonder what\u2019s\
+    \ next for it. Although there is a wide range of predictions, from conservative\
+    \ estimates of $5 to more ambitious forecasts that imply potential highs of $300,\
+    \ one thing is certain: XRP is once again on the radar and could be on the brink\
+    \ of an exciting future in the crypto market. Featured image from Block Tempo,\
+    \ chart from TradingView"
+  image: news/BTC-USDT/11192024/10/chart.png
+  sourcelink: https://www.newsbtc.com/news/xrp-mania-on-the-rise-ath-predictions-backed-by-solid-google-search-interest/
+  sentiment: VeryBullish
+- id: 11
+  title: cointelegraph.com - Bullish
+  preview: Genius Group initiates $10M Bitcoin investment.
+  fullContent: Genius Group kicks off Bitcoin treasury play with $10M in BTC
+  image: news/BTC-USDT/11192024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20267515/Genius-Group-kicks-off-Bitcoin-treasury-play-with-10M-in-BTC
+  sentiment: Bullish
+- id: 12
+  title: feeds2.benzinga.com - Neutral
+  preview: 'Shiba Inu Coin''s 2025 Potential: Poll'
+  fullContent: "Will Shiba Inu Coin Reach 1 Cent By 2025? 47% Of Benzinga Readers\
+    \ Say\u2026"
+  image: news/BTC-USDT/11192024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20267527/Will-Shiba-Inu-Coin-Reach-1-Cent-By-2025-47-Of-Benzinga-Readers-Say
+  sentiment: Neutral
+- id: 13
+  title: ambcrypto.com - VeryBullish
+  preview: MicroStrategy's Bitcoin investment hits $25.7B.
+  fullContent: "MicroStrategy Bitcoin bet reaches $25.7B: \u2018A perfect match!\u2019"
+  image: news/BTC-USDT/11192024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20267491/MicroStrategy-Bitcoin-bet-reaches-257B-A-perfect-match
+  sentiment: VeryBullish
+- id: 14
+  title: decrypt.co - Bullish
+  preview: Trump's crypto supporters own Bitcoin.
+  fullContent: Trump's Pro-Crypto Picks, Here's Who's Holding Bitcoin
+  image: news/BTC-USDT/11192024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20267431/Trumps-Pro-Crypto-Picks-Heres-Whos-Holding-Bitcoin
+  sentiment: Bullish
+- id: 15
+  title: cryptoslate.com - VeryBullish
+  preview: Bitcoin exceeds Silver, becomes mainstream asset.
+  fullContent: "Bitcoin surpasses Silver\u2019s market cap, establishing itself as\
+    \ mainstream financial asset"
+  image: news/BTC-USDT/11192024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20267333/Bitcoin-surpasses-Silvers-market-cap-establishing-itself-as-mainstream-financial-asset
+  sentiment: VeryBullish
+- id: 16
+  title: cryptopotato.com - Bullish
+  preview: Metaplanet issues bond to expand.
+  fullContent: Metaplanet Plans $11.3M Bond Issuance to Expand Bitcoin Portfolio
+  image: news/BTC-USDT/11192024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20267279/Metaplanet-Plans-113M-Bond-Issuance-to-Expand-Bitcoin-Portfolio
+  sentiment: Bullish
+- id: 17
+  title: thecoinrepublic.com - Bullish
+  preview: 'Bitcoin Greed: Should You Sell?'
+  fullContent: 'Bitcoin in Extreme Greed: Time to take Profits or Not?'
+  image: news/BTC-USDT/11192024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20267286/Bitcoin-in-Extreme-Greed-Time-to-take-Profits-or-Not
+  sentiment: Bullish
+- id: 18
+  title: cryptoglobe.com - Bullish
+  preview: Record $33.5B inflows in cryptocurrency.
+  fullContent: Cryptocurrency Investment Products See Record $33.5 Billion Year-to-Date
+    Inflows
+  image: news/BTC-USDT/11192024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20267260/Cryptocurrency-Investment-Products-See-Record-335-Billion-Year-to-Date-Inflows
+  sentiment: Bullish
+- id: 19
+  title: beincrypto.com - Bullish
+  preview: MicroStrategy Raises $1.75B for Bitcoin.
+  fullContent: MicroStrategy Announces $1.75 Billion Private Note Sale to Buy More
+    Bitcoin
+  image: news/BTC-USDT/11192024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20267459/MicroStrategy-Announces-175-Billion-Private-Note-Sale-to-Buy-More-Bitcoin
+  sentiment: Bullish
+- id: 20
+  title: cryptonews.com - Bullish
+  preview: Leading Cryptos Rising on DEXTools
+  fullContent: Top Crypto Gainers Today on DEXTools
+  image: news/BTC-USDT/11192024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20267298/Top-Crypto-Gainers-Today-on-DEXTools
+  sentiment: Bullish
+- id: 21
+  title: bitcoinmagazine.com - Bullish
+  preview: Bitcoin nearing $100,000 milestone soon.
+  fullContent: Why $100,000 Bitcoin Is Right Around The Corner
+  image: news/BTC-USDT/11192024/21/chart.png
+  sourcelink: https://cryptopanic.com/news/20267235/Why-100000-Bitcoin-Is-Right-Around-The-Corner
+  sentiment: Bullish
+- id: 22
+  title: theblock.co - VeryBullish
+  preview: Investors buy MicroStrategy, outperforming bitcoin.
+  fullContent: Wall Street giants are loading up on MicroStrategy shares, as MSTR
+    outperforms bitcoin year-to-date
+  image: news/BTC-USDT/11192024/22/chart.png
+  sourcelink: https://cryptopanic.com/news/20267208/Wall-Street-giants-are-loading-up-on-MicroStrategy-shares-as-MSTR-outperforms-bitcoin-year-to-date
+  sentiment: VeryBullish
+- id: 23
+  title: dailyhodl.com - VeryBullish
+  preview: Crypto inflows hit 2023 record.
+  fullContent: 'Institutional Crypto Products See $2,200,000,000 in Weekly Flows Setting
+    Year-to-Date Record: CoinShares'
+  image: news/BTC-USDT/11192024/23/chart.png
+  sourcelink: https://cryptopanic.com/news/20267070/Institutional-Crypto-Products-See-2200000000-in-Weekly-Flows-Setting-Year-to-Date-Record-CoinShares
+  sentiment: VeryBullish
+- id: 24
+  title: newsbtc.com - Bullish
+  preview: Poland May Hold Bitcoin Reserve.
+  fullContent: Poland Could Lead With Bitcoin Reserve, Presidential Hopeful Says
+  image: news/BTC-USDT/11192024/24/chart.png
+  sourcelink: https://cryptopanic.com/news/20267069/Poland-Could-Lead-With-Bitcoin-Reserve-Presidential-Hopeful-Says
+  sentiment: Bullish
+- id: 25
+  title: decrypt.co - Bullish
+  preview: Bitcoin ETF options launching on Tuesday.
+  fullContent: Options on BlackRock's Bitcoin ETF Will Launch Tuesday
+  image: news/BTC-USDT/11192024/25/chart.png
+  sourcelink: https://cryptopanic.com/news/20267011/Options-on-BlackRocks-Bitcoin-ETF-Will-Launch-Tuesday
+  sentiment: Bullish
+- id: 26
+  title: cointelegraph.com - VeryBullish
+  preview: MicroStrategy raising funds for Bitcoin purchase.
+  fullContent: MicroStrategy to raise $1.75B with 0% interest notes to buy Bitcoin
+  image: news/BTC-USDT/11192024/26/chart.png
+  sourcelink: https://cryptopanic.com/news/20266996/MicroStrategy-to-raise-175B-with-0-interest-notes-to-buy-Bitcoin
+  sentiment: VeryBullish
+- id: 27
+  title: cryptoslate.com - Bullish
+  preview: Bitcoin growth expected amid Trump policies.
+  fullContent: "Bitcoin poised for growth amid Trump policies and economic optimism\
+    \ \u2013 Fundstrat\u2019s Tom Lee"
+  image: news/BTC-USDT/11192024/27/chart.png
+  sourcelink: https://cryptopanic.com/news/20266974/Bitcoin-poised-for-growth-amid-Trump-policies-and-economic-optimism-Fundstrats-Tom-Lee
+  sentiment: Bullish
+- id: 28
+  title: bitcoin.com - Bullish
+  preview: Microstrategy plans $1.75B Bitcoin investment.
+  fullContent: Microstrategy to Raise $1.75 Billion for More Bitcoin Purchases
+  image: news/BTC-USDT/11192024/28/chart.png
+  sourcelink: https://cryptopanic.com/news/20266972/Microstrategy-to-Raise-175-Billion-for-More-Bitcoin-Purchases
+  sentiment: Bullish
+- id: 29
+  title: decrypt.co - VeryBearish
+  preview: Brazilian YouTuber's Bitcoin catastrophe hospitalization.
+  fullContent: You Think You Had a Bad Day? Brazilian YouTube Star's Bitcoin Nightmare
+    Led to Hospitalization
+  image: news/BTC-USDT/11192024/29/chart.png
+  sourcelink: https://cryptopanic.com/news/20266938/You-Think-You-Had-a-Bad-Day-Brazilian-YouTube-Stars-Bitcoin-Nightmare-Led-to-Hospitalization
+  sentiment: VeryBearish
+- id: 30
+  title: thestreet.com - VeryBullish
+  preview: Crypto policies boost Bitcoin towards $260k.
+  fullContent: 'Pro-crypto policies ignite Bitcoin momentum: Is $260,000 within reach?'
+  image: news/BTC-USDT/11192024/30/chart.png
+  sourcelink: https://cryptopanic.com/news/20266978/Pro-crypto-policies-ignite-Bitcoin-momentum-Is-260000-within-reach
+  sentiment: VeryBullish
