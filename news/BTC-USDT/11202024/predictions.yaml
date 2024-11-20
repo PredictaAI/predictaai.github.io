@@ -1,0 +1,254 @@
+predictions:
+- id: 1
+  title: Crypto Slate - Bearish
+  preview: Coinbase to stop WBTC trading.
+  fullContent: "Coinbase will disable Wrapped Bitcoin (WBTC) trading pairs from its\
+    \ exchange and Prime platforms on Dec. 19, citing the token\u2019s failure to\
+    \ meet its listing standards, according to a Nov. 19 announcement. Users will\
+    \ still be able to withdraw their funds past this date. Coinbase did not specify\
+    \ how WBTC falls below its listing standards, the [\u2026] The post Coinbase to\
+    \ delist WBTC, halt trading on Dec. 19 appeared first on CryptoSlate."
+  image: news/BTC-USDT/11202024/1/chart.png
+  sourcelink: https://cryptoslate.com/coinbase-to-delist-wbtc-halt-trading-on-dec-19/
+  sentiment: Bearish
+- id: 2
+  title: Cointelegraph - Neutral
+  preview: Smithsonian exhibits laptop tracking stolen Bitcoin.
+  fullContent: The Smithsonian Institute has obtained the laptop owned by former IRS
+    agent Chris Janczewski which was used to track down the 2016 Bitfinex hacker who
+    stole 120,000 Bitcoin.
+  image: news/BTC-USDT/11202024/2/chart.png
+  sourcelink: https://cointelegraph.com/news/bitfinex-hacker-tracking-irs-laptop-smithsonian-display?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: Neutral
+- id: 3
+  title: COINTURK NEWS - Bullish
+  preview: Cryptocurrency Enthusiasts Captivated by Pnut, GOAT
+  fullContent: In 2024, memecoins have become the new favorites among traders. New
+    meme-based cryptocurrencies such as Pnut and GOAT have effectively captivated
+    traders with their consistent returns. Continue Reading:Pnut and GOAT Captivate
+    Cryptocurrency Enthusiasts in 2024 The post Pnut and GOAT Captivate Cryptocurrency
+    Enthusiasts in 2024 appeared first on COINTURK NEWS.
+  image: news/BTC-USDT/11202024/3/chart.png
+  sourcelink: https://en.coin-turk.com/pnut-and-goat-captivate-cryptocurrency-enthusiasts-in-2024/
+  sentiment: Bullish
+- id: 4
+  title: U.Today - Bullish
+  preview: Bitcoin steady, Shiba slow, Solana surges.
+  fullContent: Market could be on verge of substantial recovery as things are slowly
+    calming down
+  image: news/BTC-USDT/11202024/4/chart.png
+  sourcelink: https://u.today/bitcoin-btc-hits-crucial-price-level-details-heres-why-shiba-inu-shib-is-moving-like-snail-solana
+  sentiment: Bullish
+- id: 5
+  title: Bitcoin.com - Bullish
+  preview: 'Discover Willbet.io: Secure Crypto Gaming'
+  fullContent: "The increasing integration of cryptocurrency into the online gaming\
+    \ sector has given rise to platforms like Willbet.io, a crypto-based online casino\
+    \ that offers players the option to participate in casino games and sports betting\
+    \ using digital currencies including Bitcoin (BTC) and Tether (USDT). As the crypto\
+    \ gaming space continues to evolve, Willbet.io is positioning itself [\u2026]"
+  image: news/BTC-USDT/11202024/5/chart.png
+  sourcelink: https://news.bitcoin.com/explore-willbet-io-a-secure-comprehensive-crypto-gaming-platform/
+  sentiment: Bullish
+- id: 6
+  title: AMBCrypto - Bearish
+  preview: Will Algorand stay bullish?
+  fullContent: There were a cluster of long liquidations around the $0.205 region
+    that Algorand's prices visited recently.
+  image: news/BTC-USDT/11202024/6/chart.png
+  sourcelink: https://ambcrypto.com/algorand-price-prediction-despite-15-dip-will-algo-remain-bullish/
+  sentiment: Bearish
+- id: 7
+  title: Blockchain Reporter - Bearish
+  preview: Analyst advises against buying Dogecoin now.
+  fullContent: See why analysts advise against investing in the Dogecoin ($DOGE) price
+    and suggest WallitIQ ($WLTQ) as a better alternative with the potential for 8,500%
+    gains in the next 10 days.
+  image: news/BTC-USDT/11202024/7/chart.png
+  sourcelink: https://blockchainreporter.net/dogecoin-price-analysis-analyst-says-dont-buy-doge-now-as-wallitiq-wltq-is-a-better-bet-for-8500-gains-in-next-10-days/
+  sentiment: Bearish
+- id: 8
+  title: Crypto.news - Bullish
+  preview: New token might skyrocket like Ripple.
+  fullContent: 'IntelMarkets presale gains buzz as experts eye it as the next big
+    crypto following XRP and DOGE''s massive surges. #partnercontent'
+  image: news/BTC-USDT/11202024/8/chart.png
+  sourcelink: https://crypto.news/analysts-predict-this-new-presale-token-could-skyrocket-like-ripple-dogecoin-did/
+  sentiment: Bullish
+- id: 9
+  title: CoinGape - Bullish
+  preview: Bitcoin ETF Options Debut on Nasdaq
+  fullContent: "Spot Bitcoin ETF options officially debuted on the Nasdaq, marking\
+    \ a pivotal development for the cryptocurrency market. With the arrival of these\
+    \ options, starting with the BlackRock BlackRock\u2019s iShares Bitcoin Trust\
+    \ ETF (IBIT), investors inevitably received additional instruments for hedging\
+    \ risks and covering exposure to Bitcoin\u2019s fluctuations. Nasdaq recorded\
+    \ 73,000 IBIT options contracts on the The post Spot Bitcoin ETF Options Debut\
+    \ on Nasdaq With Record Trading: Details appeared first on CoinGape."
+  image: news/BTC-USDT/11202024/9/chart.png
+  sourcelink: https://coingape.com/spot-bitcoin-etf-options-debut-on-nasdaq-with-record-trading-details/
+  sentiment: Bullish
+- id: 10
+  title: Crypto News Flash - VeryBullish
+  preview: Top 10 Altcoins to Watch 2025
+  fullContent: "The blockchain revolution has sparked a wave of innovation across\
+    \ industries, transforming how we interact with digital and financial ecosystems.\
+    \ Among the many blockchain platforms making waves, Qubetics, Polkadot, Solana,\
+    \ Avalanche, Algorand, Tezos, Cosmos, NEAR Protocol, Fantom, and Tron stand out\
+    \ for their unique scalability, security, and functionality approaches. Here\u2019\
+    s how these trailblazing platforms are [...]"
+  image: news/BTC-USDT/11202024/10/chart.png
+  sourcelink: https://www.crypto-news-flash.com/hidden-gems-10-best-altcoins-youll-regret-ignoring-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=hidden-gems-10-best-altcoins-youll-regret-ignoring-in-2025
+  sentiment: VeryBullish
+- id: 11
+  title: newsbtc.com - VeryBullish
+  preview: 'Expert: US Bitcoin reserve boosts price.'
+  fullContent: US Bitcoin Reserve Will Push Price Above $1 Million, Expert Predicts
+  image: news/BTC-USDT/11202024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20276453/US-Bitcoin-Reserve-Will-Push-Price-Above-1-Million-Expert-Predicts
+  sentiment: VeryBullish
+- id: 12
+  title: cointelegraph.com - Bullish
+  preview: Saylor to propose Bitcoin strategy to Microsoft.
+  fullContent: Michael Saylor to pitch Microsoft board on Bitcoin buying strategy
+  image: news/BTC-USDT/11202024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20276437/Michael-Saylor-to-pitch-Microsoft-board-on-Bitcoin-buying-strategy
+  sentiment: Bullish
+- id: 13
+  title: cryptoslate.com - Bearish
+  preview: WBTC delisting from Coinbase Dec. 19
+  fullContent: Coinbase to delist WBTC, halt trading on Dec. 19
+  image: news/BTC-USDT/11202024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20276420/Coinbase-to-delist-WBTC-halt-trading-on-Dec-19
+  sentiment: Bearish
+- id: 14
+  title: cointelegraph.com - Neutral
+  preview: IRS laptop exhibit at Smithsonian.
+  fullContent: "Smithsonian to display IRS laptop that tracked Bitfinex\u2019s 120K\
+    \ stolen Bitcoin"
+  image: news/BTC-USDT/11202024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20276405/Smithsonian-to-display-IRS-laptop-that-tracked-Bitfinexs-120K-stolen-Bitcoin
+  sentiment: Neutral
+- id: 15
+  title: feeds2.benzinga.com - Bullish
+  preview: Bitcoin ETF options exceed $1B volume.
+  fullContent: BlackRock's Head Of Digital Assets Says IBIT Spot Bitcoin ETF Options
+    Blow Past 1 Billion In Trading Volume
+  image: news/BTC-USDT/11202024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20276432/BlackRocks-Head-Of-Digital-Assets-Says-IBIT-Spot-Bitcoin-ETF-Options-Blow-Past-1-Billion-In-Trading-Volume
+  sentiment: Bullish
+- id: 16
+  title: u.today - Bullish
+  preview: Bitcoin, Shiba Inu, Solana Price Updates
+  fullContent: 'Bitcoin (BTC) Hits Crucial Price Level: Details, Here''s Why Shiba
+    Inu (SHIB) Is Moving Like Snail, Solana (SOL) Pushes to $300 as Billions in Volume
+    Flow In'
+  image: news/BTC-USDT/11202024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20276404/Bitcoin-BTC-Hits-Crucial-Price-Level-Details-Heres-Why-Shiba-Inu-SHIB-Is-Moving-Like-Snail-Solana-SOL-Pushes-to-300-as-Billions-in-Volume-Flow-In
+  sentiment: Bullish
+- id: 17
+  title: bitcoin.com - Bullish
+  preview: Discover Secure Crypto Gaming at Willbet.io
+  fullContent: 'Explore Willbet.io: A Secure, Comprehensive Crypto Gaming Platform'
+  image: news/BTC-USDT/11202024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20276281/Explore-Willbetio-A-Secure-Comprehensive-Crypto-Gaming-Platform
+  sentiment: Bullish
+- id: 18
+  title: coingape.com - Bullish
+  preview: Bitcoin ETF options debut on Nasdaq.
+  fullContent: 'Spot Bitcoin ETF Options Debut on Nasdaq With Record Trading: Details'
+  image: news/BTC-USDT/11202024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20276241/Spot-Bitcoin-ETF-Options-Debut-on-Nasdaq-With-Record-Trading-Details
+  sentiment: Bullish
+- id: 19
+  title: cryptoglobe.com - VeryBullish
+  preview: MicroStrategy Boosts Bitcoin Holdings Massively
+  fullContent: MicroStrategy Strengthens Bitcoin Position With $4.6 Billion BTC Acquisition,
+    Totaling 331,200 Coins in Treasury
+  image: news/BTC-USDT/11202024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20276230/MicroStrategy-Strengthens-Bitcoin-Position-With-46-Billion-BTC-Acquisition-Totaling-331200-Coins-in-Treasury
+  sentiment: VeryBullish
+- id: 20
+  title: bitcoin.com - Bullish
+  preview: Securitize Introduces Institutional DeFi Liquidity System
+  fullContent: Securitize Unveils Vault System to Revolutionize Institutional Defi
+    Liquidity
+  image: news/BTC-USDT/11202024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20276220/Securitize-Unveils-Vault-System-to-Revolutionize-Institutional-Defi-Liquidity
+  sentiment: Bullish
+- id: 21
+  title: beincrypto.com - Bearish
+  preview: Crypto mining ban in occupied Ukraine.
+  fullContent: Russia Bans Crypto Mining in Occupied Ukraine From December
+  image: news/BTC-USDT/11202024/21/chart.png
+  sourcelink: https://cryptopanic.com/news/20276417/Russia-Bans-Crypto-Mining-in-Occupied-Ukraine-From-December
+  sentiment: Bearish
+- id: 22
+  title: decrypt.co - Bullish
+  preview: Marathon Digital Raises $850M for Bitcoin.
+  fullContent: Marathon Digital Issues $850M Convertible Note Sale to Repurchase Debt,
+    Acquire Bitcoin
+  image: news/BTC-USDT/11202024/22/chart.png
+  sourcelink: https://cryptopanic.com/news/20276205/Marathon-Digital-Issues-850M-Convertible-Note-Sale-to-Repurchase-Debt-Acquire-Bitcoin
+  sentiment: Bullish
+- id: 23
+  title: beincrypto.com - VeryBearish
+  preview: Bitcoin drops, holders cash out.
+  fullContent: Bitcoin Slumps from $93,000 Peak as Long-Term Holders Cash Out $3 Billion
+  image: news/BTC-USDT/11202024/23/chart.png
+  sourcelink: https://cryptopanic.com/news/20276187/Bitcoin-Slumps-from-93000-Peak-as-Long-Term-Holders-Cash-Out-3-Billion
+  sentiment: VeryBearish
+- id: 24
+  title: newsbtc.com - Bullish
+  preview: Bitcoin dominance drop might trigger altseason.
+  fullContent: Bitcoin Dominance Sliding Below This Level Could Signal Start Of Altseason,
+    Trading Firm Says
+  image: news/BTC-USDT/11202024/24/chart.png
+  sourcelink: https://cryptopanic.com/news/20276002/Bitcoin-Dominance-Sliding-Below-This-Level-Could-Signal-Start-Of-Altseason-Trading-Firm-Says
+  sentiment: Bullish
+- id: 25
+  title: zycrypto.com - VeryBullish
+  preview: Tom Lee Predicts $100k Bitcoin
+  fullContent: "$100,000 Bitcoin in 2024? Fundstrat\u2019s Tom Lee Bold Prediction\
+    \ Packs a Punch"
+  image: news/BTC-USDT/11202024/25/chart.png
+  sourcelink: https://cryptopanic.com/news/20276053/100000-Bitcoin-in-2024-Fundstrats-Tom-Lee-Bold-Prediction-Packs-a-Punch
+  sentiment: VeryBullish
+- id: 26
+  title: cryptopotato.com - VeryBullish
+  preview: Metaplanet Buys More Bitcoin Amidst Rally
+  fullContent: Metaplanet Acquires Additional 124 BTC as Stock Prices Skyrocket
+  image: news/BTC-USDT/11202024/26/chart.png
+  sourcelink: https://cryptopanic.com/news/20275994/Metaplanet-Acquires-Additional-124-BTC-as-Stock-Prices-Skyrocket
+  sentiment: VeryBullish
+- id: 27
+  title: '@BTC_Archive - VeryBullish'
+  preview: Companies should prioritize Bitcoin on agendas.
+  fullContent: 'MICHAEL SAYLOR: #Bitcoin should be put on the board agenda of every
+    company, from Berkshire Hathaway, Apple, Google, and Meta because they all have
+    HUGE hordes of cash and they''re all burning shareholder value.'
+  image: news/BTC-USDT/11202024/27/chart.png
+  sourcelink: https://cryptopanic.com/news/20276003/MICHAEL-SAYLOR-Bitcoin-should-be-put-on-the-board-agenda-of-every-company-from-Berkshire-Hathaway-Apple-Google-and-Meta-because-they-all-have-HUGE-hordes-of-cash-and-theyre-all-burning-shareholder-value
+  sentiment: VeryBullish
+- id: 28
+  title: zycrypto.com - VeryBullish
+  preview: Bitcoin surges past $94,000, ETF trading begins.
+  fullContent: Bitcoin Hits Fresh Record High Above $94,000 As Spot Bitcoin ETF Options
+    Trading Kicks Off
+  image: news/BTC-USDT/11202024/28/chart.png
+  sourcelink: https://cryptopanic.com/news/20275998/Bitcoin-Hits-Fresh-Record-High-Above-94000-As-Spot-Bitcoin-ETF-Options-Trading-Kicks-Off
+  sentiment: VeryBullish
+- id: 29
+  title: thestreet.com - Bullish
+  preview: Bitcoin expected to reach $100,000 soon.
+  fullContent: Bitcoin shaping up to break $100,000 as 'Thanksgiving Effect' looms?
+  image: news/BTC-USDT/11202024/29/chart.png
+  sourcelink: https://cryptopanic.com/news/20276052/Bitcoin-shaping-up-to-break-100000-as-Thanksgiving-Effect-looms
+  sentiment: Bullish
+- id: 30
+  title: thestreet.com - Bearish
+  preview: Bitcoin income in stagnant markets.
+  fullContent: How to generate income from Bitcoin in flat or declining markets
+  image: news/BTC-USDT/11202024/30/chart.png
+  sourcelink: https://cryptopanic.com/news/20275996/How-to-generate-income-from-Bitcoin-in-flat-or-declining-markets
+  sentiment: Bearish
