@@ -1,0 +1,269 @@
+predictions:
+- id: 1
+  title: AMBCrypto - Bearish
+  preview: POPCAT poised for new ATH rebound.
+  fullContent: Within days of hitting a new ATH, POPCAT may be heading in the opposite
+    direction.
+  image: news/BTC-USDT/11212024/1/chart.png
+  sourcelink: https://ambcrypto.com/popcat-why-a-new-ath-is-not-impossible-despite-22-fall-in-memecoins-value/
+  sentiment: Bearish
+- id: 2
+  title: FXStreet - Neutral
+  preview: Trump admin proposes White House crypto-role.
+  fullContent: President-elect Donald Trump and his team are reportedly seeking to
+    introduce a new White House position for crypto policy, Bloomberg reported on
+    Wednesday.
+  image: news/BTC-USDT/11212024/2/chart.png
+  sourcelink: https://www.fxstreet.com/cryptocurrencies/news/trump-administration-allegedly-seeks-to-create-new-crypto-position-in-white-house-202411210020
+  sentiment: Neutral
+- id: 3
+  title: CoinPedia - Bullish
+  preview: SHIB's transactions rise 98%, speculation.
+  fullContent: "The post SHIB\u2019s Large Transactions Surge by 98%, Buy Sign or\
+    \ What? appeared first on Coinpedia Fintech News Shiba Inu (SHIB), the second-largest\
+    \ crypto meme coin is on the radar of whales and institutions amid ongoing price\
+    \ consolidation, signaling a bullish trend. According to the on-chain analytics\
+    \ firm IntoTheBlock, SHIB\u2019s large transaction volume has surged by 98% in\
+    \ the past 24 hours, indicating significant participation from whales and institutions.\
+    \ Whales Activity: Large Transaction \u2026"
+  image: news/BTC-USDT/11212024/3/chart.png
+  sourcelink: https://coinpedia.org/news/shibs-large-transactions-surge-by-98-buy-sign-or-what/
+  sentiment: Bullish
+- id: 4
+  title: COINTURK NEWS - Bearish
+  preview: Five Charged for Cryptocurrency Theft
+  fullContent: The U.S. Department of Justice (DOJ) has filed charges against five
+    individuals for stealing approximately $6.3 million in cryptocurrency and compromising
+    sensitive corporate data. Continue Reading:U.S. Justice Department Charges Five
+    Individuals for Cryptocurrency Theft The post U.S. Justice Department Charges
+    Five Individuals for Cryptocurrency Theft appeared first on COINTURK NEWS.
+  image: news/BTC-USDT/11212024/4/chart.png
+  sourcelink: https://en.coin-turk.com/u-s-justice-department-charges-five-individuals-for-cryptocurrency-theft/
+  sentiment: Bearish
+- id: 5
+  title: FXStreet - Bullish
+  preview: Cardano, XLM, Russia impact crypto market.
+  fullContent: "Cardano (ADA) price action ADA\u2019s ongoing rally has been attributed\
+    \ to rumors that the Trump administration could collaborate with the Cardano network\
+    \ to build a blockchain voting system."
+  image: news/BTC-USDT/11212024/5/chart.png
+  sourcelink: https://www.fxstreet.com/cryptocurrencies/news/crypto-today-cardano-xlm-floki-lead-31-trillion-rally-russia-bans-crypto-mining-bitcoin-eyes-95k-202411210003
+  sentiment: Bullish
+- id: 6
+  title: BeInCrypto - VeryBullish
+  preview: Nvidia's Q3 revenue surges, surpasses expectations.
+  fullContent: "Nvidia Corporation announced on Wednesday a significant 95% increase\
+    \ in revenue for the third quarter of 2024, reaching $35.1 billion and surpassing\
+    \ previous predictions. For the fourth quarter, Nvidia projects revenue of $37.5\
+    \ billion. Nvidia Q3 Revenue Reflects Strong Demand for AI The company\u2019s\
+    \ Data Center segment led the growth with a 111% jump to $30.8 billion compared\
+    \ to the previous year. Gaming, Professional Visualization, and Automotive segments\
+    \ also recorded increases of 14%, 16%, and 72%, respectively. Nvidia\u2019s stock\
+    \ prices have also increased by nearly 30% throughout Q3, and nearly 200% this\
+    \ year. The company\u2019s performance is likely driven by the surging demand\
+    \ for Bitcoin mining and AI. \u201CThe age of AI is in full steam, propelling\
+    \ a global shift to NVIDIA computing,\u201D founder and CEO Jensen Huang noted\
+    \ in a press release. Also, the company has continued to dominate the GPU mining\
+    \ market. According to the latest data, its RTX hardware has consecutively outperformed\
+    \ any other products in the market in terms of GPU mining profitability. GPU profitability\
+    \ ranking as of November 2024. Source: What To Mine Exploring Other Business Avenues\
+    \ Amidst its surging revenue, Nvidia has been looking into new business avenues\
+    \ throughout the year. The company is venturing into humanoid robotics. The development\
+    \ aims to equip developers with tools to train robots using data from human demonstrations.\
+    \ Earlier this year, Nvidia\u2019s market capitalization surpassed the combined\
+    \ value of all Russell 2000 stocks by $10 billion, accounting for 43% of the S&amp;P\
+    \ 500\u2019s gains. However, the company is facing regulatory challenges due to\
+    \ its strong association with crypto mining. In September, the Department of Justice\
+    \ (DOJ) issued a subpoena as part of an antitrust investigation. The case is reportedly\
+    \ looking into whether Nvidia\u2019s practices limit competition in sectors like\
+    \ crypto and AI. Most recently, the Supreme Court indicated that it may issue\
+    \ a narrow ruling in a shareholder lawsuit. The lawsuit accuses Nvidia of misrepresenting\
+    \ its dependence on crypto mining revenue to investors."
+  image: news/BTC-USDT/11212024/6/chart.png
+  sourcelink: https://beincrypto.com/nvidia-q3-revenue-95-percent-growth/
+  sentiment: VeryBullish
+- id: 7
+  title: U.Today - Bearish
+  preview: XRP, Dogecoin, and Pepe Market Update
+  fullContent: Cryptocurrency market clearly taking break
+  image: news/BTC-USDT/11212024/7/chart.png
+  sourcelink: https://u.today/xrp-4-days-of-sleep-whats-next-dogecoin-doge-hints-at-double-top-pattern-formation-pepe-pepe-loses
+  sentiment: Bearish
+- id: 8
+  title: AMBCrypto - Bullish
+  preview: SOL Global seeks $2.5M Solana purchase.
+  fullContent: The firm's share has immensely benefited from the Solana corporate
+    treasury.
+  image: news/BTC-USDT/11212024/8/chart.png
+  sourcelink: https://ambcrypto.com/canadian-firm-sol-global-investments-fund-eyes-2-5m-to-buy-more-solana/
+  sentiment: Bullish
+- id: 9
+  title: Crypto Slate - Neutral
+  preview: SEC refunds $4.6M to BitClave investors.
+  fullContent: "The US Securities and Exchange Commission (SEC) has distributed $4.6\
+    \ million to investors of defunct crypto startup BitClave\u2019s 2017 initial\
+    \ coin offering (ICO), according to a Nov. 20 announcement. The funds were disbursed\
+    \ as part of the BitClave Fair Fund established after a 2020 settlement. The firm\
+    \ halted its operations in 2020 after the SEC [\u2026] The post SEC disburses\
+    \ $4.6 million to BitClave ICO investors amid unresolved fund discrepancies appeared\
+    \ first on CryptoSlate."
+  image: news/BTC-USDT/11212024/9/chart.png
+  sourcelink: https://cryptoslate.com/sec-disburses-4-6-million-to-bitclave-ico-investors-amid-unresolved-fund-discrepancies/
+  sentiment: Neutral
+- id: 10
+  title: Cointelegraph - Bearish
+  preview: Bitcoin won't solve US debt crisis.
+  fullContent: "Avik Roy, the president of a nonprofit think tank, said Senator Cynthia\
+    \ Lummis\u2019 idea that Bitcoin could eliminate federal debt is an \u201Coverselling\u201D\
+    \ of what Bitcoin can do."
+  image: news/BTC-USDT/11212024/10/chart.png
+  sourcelink: https://cointelegraph.com/news/bitcoin-cannot-solve-americas-debt-problem-on-its-own?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: Bearish
+- id: 11
+  title: cryptodaily.co.uk - VeryBullish
+  preview: 'Top Cryptos: Qubetics, Bitcoin, Solana'
+  fullContent: 'Best Cryptos to Watch: 986% ROI Alert: Qubetics Presale Soars, Bitcoin''s
+    Next Move, and Solana''s Historic Surge'
+  image: news/BTC-USDT/11212024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20285087/Best-Cryptos-to-Watch-986-ROI-Alert-Qubetics-Presale-Soars-Bitcoins-Next-Move-and-Solanas-Historic-Surge
+  sentiment: VeryBullish
+- id: 12
+  title: beincrypto.com - VeryBullish
+  preview: Nvidia Revenue Surges, Exceeds Expectations
+  fullContent: Nvidia Q3 Revenue Soars 95% to $35.1 Billion, Exceeding Expectations
+  image: news/BTC-USDT/11212024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20285082/Nvidia-Q3-Revenue-Soars-95-to-351-Billion-Exceeding-Expectations
+  sentiment: VeryBullish
+- id: 13
+  title: newsbtc.com - Bullish
+  preview: Coinbase fuels Bitcoin rally, analyst says.
+  fullContent: "Bitcoin Rally Driven By U.S. Coinbase Investors \u2013 Top Analyst\
+    \ Shares Metrics"
+  image: news/BTC-USDT/11212024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20284954/Bitcoin-Rally-Driven-By-US-Coinbase-Investors-Top-Analyst-Shares-Metrics
+  sentiment: Bullish
+- id: 14
+  title: cointelegraph.com - Bearish
+  preview: Bitcoin can't resolve US debt crisis.
+  fullContent: "Bitcoin reserve won\u2019t solve US debt crisis: Think tank co-founder"
+  image: news/BTC-USDT/11212024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20284894/Bitcoin-reserve-wont-solve-US-debt-crisis-Think-tank-co-founder
+  sentiment: Bearish
+- id: 15
+  title: coingape.com - Neutral
+  preview: Timeline Extended for Franklin Templeton's ETF Decision
+  fullContent: US SEC Pushes Timeline For Franklin Templeton Crypto Index ETF Decision
+  image: news/BTC-USDT/11212024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20284887/US-SEC-Pushes-Timeline-For-Franklin-Templeton-Crypto-Index-ETF-Decision
+  sentiment: Neutral
+- id: 16
+  title: bitcoin.com - Bullish
+  preview: South Africa real estate via crypto.
+  fullContent: Schindlers Digital Assets Launches Real Estate Purchases With Crypto
+    in South Africa
+  image: news/BTC-USDT/11212024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20284852/Schindlers-Digital-Assets-Launches-Real-Estate-Purchases-With-Crypto-in-South-Africa
+  sentiment: Bullish
+- id: 17
+  title: theblock.co - Bullish
+  preview: "MicroStrategy\u2019s bitcoin purchase boosts trading."
+  fullContent: "MSTR trading volumes surge after MicroStrategy\u2019s biggest bitcoin\
+    \ purchase"
+  image: news/BTC-USDT/11212024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20284635/MSTR-trading-volumes-surge-after-MicroStrategys-biggest-bitcoin-purchase
+  sentiment: Bullish
+- id: 18
+  title: thedefiant.io - VeryBullish
+  preview: Bitcoin Reaches Unprecedented $94,900 Record
+  fullContent: Bitcoin Hits Another Record High of $94,900
+  image: news/BTC-USDT/11212024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20284633/Bitcoin-Hits-Another-Record-High-of-94900
+  sentiment: VeryBullish
+- id: 19
+  title: cryptopotato.com - Bearish
+  preview: Russia bans winter crypto mining.
+  fullContent: Russia Imposes Winter Ban on Crypto Mining in Key Regions to Conserve
+    Energy
+  image: news/BTC-USDT/11212024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20284601/Russia-Imposes-Winter-Ban-on-Crypto-Mining-in-Key-Regions-to-Conserve-Energy
+  sentiment: Bearish
+- id: 20
+  title: newsbtc.com - Bullish
+  preview: Cardano volume surge suggests price uptrend.
+  fullContent: 297% Spike In Cardano Large Holder Volume Suggests ADA Price Could
+    See Another Uptrend
+  image: news/BTC-USDT/11212024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20284579/297-Spike-In-Cardano-Large-Holder-Volume-Suggests-ADA-Price-Could-See-Another-Uptrend
+  sentiment: Bullish
+- id: 21
+  title: cryptoslate.com - Bearish
+  preview: SEC defers Franklin's crypto ETF.
+  fullContent: "SEC delays decision on Franklin Templeton\u2019s crypto Index ETF\
+    \ to 2025"
+  image: news/BTC-USDT/11212024/21/chart.png
+  sourcelink: https://cryptopanic.com/news/20284596/SEC-delays-decision-on-Franklin-Templetons-crypto-Index-ETF-to-2025
+  sentiment: Bearish
+- id: 22
+  title: beincrypto.com - Neutral
+  preview: Trump mulls new crypto advisor position.
+  fullContent: Trump is Considering New White House Crypto Advisor Position
+  image: news/BTC-USDT/11212024/22/chart.png
+  sourcelink: https://cryptopanic.com/news/20284839/Trump-is-Considering-New-White-House-Crypto-Advisor-Position
+  sentiment: Neutral
+- id: 23
+  title: cointelegraph.com - Bearish
+  preview: SEC postpones Franklin Templeton ETF decision.
+  fullContent: SEC delays Franklin Templeton crypto index ETF decision
+  image: news/BTC-USDT/11212024/23/chart.png
+  sourcelink: https://cryptopanic.com/news/20284574/SEC-delays-Franklin-Templeton-crypto-index-ETF-decision
+  sentiment: Bearish
+- id: 24
+  title: ambcrypto.com - Bullish
+  preview: Whales holding Bitcoin, $100K imminent?
+  fullContent: "Bitcoin whales refuse to sell\u2014Is $100K closer than we think?"
+  image: news/BTC-USDT/11212024/24/chart.png
+  sourcelink: https://cryptopanic.com/news/20284408/Bitcoin-whales-refuse-to-sellIs-100K-closer-than-we-think
+  sentiment: Bullish
+- id: 25
+  title: bitcoin.com - Bearish
+  preview: Binance Utilizes Reserves Amid Bitcoin Outflows
+  fullContent: 'Onchain Analyst: Binance Taps Cold Wallet Reserves as Bitcoin Outflows
+    Spike'
+  image: news/BTC-USDT/11212024/25/chart.png
+  sourcelink: https://cryptopanic.com/news/20284294/Onchain-Analyst-Binance-Taps-Cold-Wallet-Reserves-as-Bitcoin-Outflows-Spike
+  sentiment: Bearish
+- id: 26
+  title: beincrypto.com - Bullish
+  preview: MicroStrategy rises in top 100.
+  fullContent: MicroStrategy Among Top 100 Public US Firms After Record MSTR Surge
+  image: news/BTC-USDT/11212024/26/chart.png
+  sourcelink: https://cryptopanic.com/news/20284565/MicroStrategy-Among-Top-100-Public-US-Firms-After-Record-MSTR-Surge
+  sentiment: Bullish
+- id: 27
+  title: feeds2.benzinga.com - Bullish
+  preview: 'Core Fusion Upgrade: Dual Staking Introduced'
+  fullContent: Core Fusion Upgrade Introduces Dual Staking And Liquid Bitcoin Staking
+  image: news/BTC-USDT/11212024/27/chart.png
+  sourcelink: https://cryptopanic.com/news/20284325/Core-Fusion-Upgrade-Introduces-Dual-Staking-And-Liquid-Bitcoin-Staking
+  sentiment: Bullish
+- id: 28
+  title: cryptopolitan.com - Neutral
+  preview: MicroStrategy tops US trading charts.
+  fullContent: "MicroStrategy\u2019s MSTR is the most traded stock in the US today"
+  image: news/BTC-USDT/11212024/28/chart.png
+  sourcelink: https://cryptopanic.com/news/20284271/MicroStrategys-MSTR-is-the-most-traded-stock-in-the-US-today
+  sentiment: Neutral
+- id: 29
+  title: dailycoin.com - Bullish
+  preview: Saylor targets Microsoft and Rumble BTC.
+  fullContent: Microstrategy's Saylor Eyes Microsoft and Rumble BTC Initiation
+  image: news/BTC-USDT/11212024/29/chart.png
+  sourcelink: https://cryptopanic.com/news/20284220/Microstrategys-Saylor-Eyes-Microsoft-and-Rumble-BTC-Initiation
+  sentiment: Bullish
+- id: 30
+  title: ambcrypto.com - Bullish
+  preview: Rumble stock rises on Bitcoin speculation
+  fullContent: 'Bitcoin: Rumble stock rallies 9% as founder mulls adding BTC to treasury'
+  image: news/BTC-USDT/11212024/30/chart.png
+  sourcelink: https://cryptopanic.com/news/20284068/Bitcoin-Rumble-stock-rallies-9-as-founder-mulls-adding-BTC-to-treasury
+  sentiment: Bullish
