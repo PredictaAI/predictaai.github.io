@@ -1,0 +1,247 @@
+predictions:
+- id: 1
+  title: AMBCrypto - VeryBearish
+  preview: HUZZ Coin drops 85% suddenly.
+  fullContent: Huzz coin market size declined by 85% from $27M to $4M in less than
+    a day.
+  image: news/BTC-USDT/11222024/1/chart.png
+  sourcelink: https://ambcrypto.com/huzz-coin-drops-85-in-a-day-can-the-tiktok-driven-memecoin-recover/
+  sentiment: VeryBearish
+- id: 2
+  title: Crypto.news - VeryBullish
+  preview: Dogen increase, Cardano, Tron surge predicted.
+  fullContent: 'Dogen (DOGEN) could surge from $0.0008 as Cardano (ADA) eyes $2 and
+    Tron (TRX) targets $0.5. #partnercontent'
+  image: news/BTC-USDT/11222024/2/chart.png
+  sourcelink: https://crypto.news/dogen-to-skyrocket-from-0-0008-cardano-looks-to-hit-2-and-tron-0-5/
+  sentiment: VeryBullish
+- id: 3
+  title: Bitcoin.com - Bullish
+  preview: Senator Advocates Gold Sales for Bitcoin
+  fullContent: "A U.S. senator has proposed selling gold reserves to create a strategic\
+    \ bitcoin reserve, a revolutionary move to bolster the dollar and tackle U.S.\
+    \ national debt. Selling Gold for Bitcoin: US Senator\u2019s Game-Changing Proposal\
+    \ U.S. Senator Cynthia Lummis (R-WY) shared insights during a Thursday interview\
+    \ with CNBC as bitcoin reached a historic peak. She attributed [\u2026]"
+  image: news/BTC-USDT/11222024/3/chart.png
+  sourcelink: https://news.bitcoin.com/us-senator-pushes-gold-sales-to-kickstart-massive-bitcoin-reserves/
+  sentiment: Bullish
+- id: 4
+  title: CoinGape - Bullish
+  preview: Chris Giancarlo likely White House crypto czar.
+  fullContent: "Chris Giancarlo, widely known as \u201CCrypto Dad,\u201D has emerged\
+    \ as the leading candidate for a newly proposed role of crypto czar in the White\
+    \ House under President-elect Donald Trump\u2019s administration. The potential\
+    \ appointment underscores a strategic effort to advance crypto regulations and\
+    \ foster blockchain innovation in the United States. This proposed position would\
+    \ be the The post \u201CCrypto Dad\u201D Chris Giancarlo Emerges Top For White\
+    \ House Crypto Czar Role appeared first on CoinGape."
+  image: news/BTC-USDT/11222024/4/chart.png
+  sourcelink: https://coingape.com/crypto-dad-chris-giancarlo-emerges-top-for-white-house-crypto-czar-role/
+  sentiment: Bullish
+- id: 5
+  title: COINTURK NEWS - Bullish
+  preview: Saylor to Present Bitcoin Strategy Microsoft
+  fullContent: Michael Saylor, the chairman of MicroStrategy, expressed his desire
+    to hold a private meeting with Microsoft CEO Satya Nadella to discuss Bitcoin
+    adoption. During a discussion on the X Space platform, Saylor mentioned that he
+    intends to prepare a three-minute presentation for the Microsoft board to advocate
+    for Bitcoin as a treasury asset. Continue Reading:Michael Saylor Plans to Present
+    Bitcoin Strategy to Microsoft The post Michael Saylor Plans to Present Bitcoin
+    Strategy to Microsoft appeared first on COINTURK NEWS.
+  image: news/BTC-USDT/11222024/5/chart.png
+  sourcelink: https://en.coin-turk.com/michael-saylor-plans-to-present-bitcoin-strategy-to-microsoft/
+  sentiment: Bullish
+- id: 6
+  title: Cointelegraph - Bearish
+  preview: MicroStrategy raises $3B amid 25% drop
+  fullContent: "The $3 billion offering of 0% convertible senior notes is part of\
+    \ MicroStrategy\u2019s plans to raise $42 billion over the next three years \u2014\
+    \ primarily to buy more Bitcoin."
+  image: news/BTC-USDT/11222024/6/chart.png
+  sourcelink: https://cointelegraph.com/news/microstrategy-completes-3-billion-raise-to-purchase-more-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: Bearish
+- id: 7
+  title: FXStreet - VeryBullish
+  preview: XRP rises, Solana/BTC reach peaks.
+  fullContent: "News of Gary Gensler\u2019s exit from the US SEC on January 20 has\
+    \ sparked bullish momentum across the crypto markets."
+  image: news/BTC-USDT/11222024/7/chart.png
+  sourcelink: https://www.fxstreet.com/cryptocurrencies/news/crypto-today-xrp-gains-10-solana-and-btc-hit-new-peaks-as-gensler-steps-down-january-20-202411220002
+  sentiment: VeryBullish
+- id: 8
+  title: U.Today - VeryBullish
+  preview: Shiba, Bitcoin, Solana Prices Expected Surge
+  fullContent: Market feeling reassured as we are seeing numerous signs of potential
+    continuation popping around
+  image: news/BTC-USDT/11222024/8/chart.png
+  sourcelink: https://u.today/shiba-inu-shib-rocket-fuel-pattern-here-bitcoin-btc-ready-for-fundamental-shift-at-100000-solanas
+  sentiment: VeryBullish
+- id: 9
+  title: Crypto Slate - Bullish
+  preview: Court voids SEC's dealer regulation.
+  fullContent: "A federal court has struck down the Securities and Exchange Commission\u2019\
+    s (SEC) controversial dealer rule, delivering a major setback to the agency\u2019\
+    s regulatory efforts in the crypto sector. The US District Court for the Northern\
+    \ District of Texas ruled on Nov. 21 that the SEC exceeded its statutory authority,\
+    \ invalidating the rule as a violation [\u2026] The post US court strikes down\
+    \ controversial SEC \u2018dealer\u2019 rule appeared first on CryptoSlate."
+  image: news/BTC-USDT/11222024/9/chart.png
+  sourcelink: https://cryptoslate.com/us-court-strikes-down-controversial-sec-dealer-rule/
+  sentiment: Bullish
+- id: 10
+  title: AMBCrypto - Bullish
+  preview: Bitcoin follows 2020, targeting $135K.
+  fullContent: "Bitcoin\u2019s renewed bullish momentum has analysts predicting a\
+    \ rise to $135,000, echoing its 2020 rally. Key metrics support the projection,\
+    \ but risks and market volatility remain."
+  image: news/BTC-USDT/11222024/10/chart.png
+  sourcelink: https://ambcrypto.com/bitcoin-mirrors-2020-pattern-is-135k-the-next-stop-for-btc/
+  sentiment: Bullish
+- id: 11
+  title: dailyhodl.com - Bullish
+  preview: 'Ethereum Opportunity: ETH Hits Bitcoin Low'
+  fullContent: 'Ethereum Believers May Be Staring Down Opportunity As ETH Reaches
+    Another Low Against Bitcoin: CryptoQuant CEO'
+  image: news/BTC-USDT/11222024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20294299/Ethereum-Believers-May-Be-Staring-Down-Opportunity-As-ETH-Reaches-Another-Low-Against-Bitcoin-CryptoQuant-CEO
+  sentiment: Bullish
+- id: 12
+  title: bitcoin.com - Bullish
+  preview: Senator Advocates Bitcoin Reserves via Gold.
+  fullContent: US Senator Pushes Gold Sales to Kickstart Massive Bitcoin Reserves
+  image: news/BTC-USDT/11222024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20294262/US-Senator-Pushes-Gold-Sales-to-Kickstart-Massive-Bitcoin-Reserves
+  sentiment: Bullish
+- id: 13
+  title: cointelegraph.com - Bearish
+  preview: MicroStrategy raises $3B for Bitcoin purchase.
+  fullContent: MicroStrategy completes $3B raise to buy more Bitcoin as MSTR falls
+    25%
+  image: news/BTC-USDT/11222024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20294205/MicroStrategy-completes-3B-raise-to-buy-more-Bitcoin-as-MSTR-falls-25
+  sentiment: Bearish
+- id: 14
+  title: cryptonews.com - Bullish
+  preview: Ethereum Nears High; Catslap Presale Viral
+  fullContent: "Ethereum Approaches Range High as Catslap Presale Goes Viral \u2013\
+    \ Is This the Best Meme Coin to Buy Now?"
+  image: news/BTC-USDT/11222024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20294212/Ethereum-Approaches-Range-High-as-Catslap-Presale-Goes-Viral-Is-This-the-Best-Meme-Coin-to-Buy-Now
+  sentiment: Bullish
+- id: 15
+  title: u.today - VeryBullish
+  preview: SHIB, BTC, SOL Experience Potential Growth
+  fullContent: Shiba Inu (SHIB) Rocket Fuel Pattern Here, Bitcoin (BTC) Ready for
+    Fundamental Shift at $100,000, Solana's (SOL) Road to $300 Continues
+  image: news/BTC-USDT/11222024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20294122/Shiba-Inu-SHIB-Rocket-Fuel-Pattern-Here-Bitcoin-BTC-Ready-for-Fundamental-Shift-at-100000-Solanas-SOL-Road-to-300-Continues
+  sentiment: VeryBullish
+- id: 16
+  title: ambcrypto.com - Bullish
+  preview: Bitcoin possibly reaching $135K next?
+  fullContent: 'Bitcoin mirrors 2020 pattern: Is $135K the next stop for BTC?'
+  image: news/BTC-USDT/11222024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20294092/Bitcoin-mirrors-2020-pattern-Is-135K-the-next-stop-for-BTC
+  sentiment: Bullish
+- id: 17
+  title: thestreet.com - Bullish
+  preview: 'Bull Market News: Bitcoin, Solana, XRP'
+  fullContent: 'Crypto Bull Market: Big News For Bitcoin, Solana, XRP And ETFs'
+  image: news/BTC-USDT/11222024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20294241/Crypto-Bull-Market-Big-News-For-Bitcoin-Solana-XRP-And-ETFs
+  sentiment: Bullish
+- id: 18
+  title: coinpedia.org - VeryBullish
+  preview: Large Bitcoin purchase by whales
+  fullContent: Bitcoin Whales Unstoppable, $283M Fresh BTC Purchase Amid ATH
+  image: news/BTC-USDT/11222024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20294032/Bitcoin-Whales-Unstoppable-283M-Fresh-BTC-Purchase-Amid-ATH
+  sentiment: VeryBullish
+- id: 19
+  title: thecoinrepublic.com - Bullish
+  preview: Canaan rises after Luna partnership announcement.
+  fullContent: Canaan Surges 3.92% After Luna Squares Partnership For Mining Bitcoin
+  image: news/BTC-USDT/11222024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20294031/Canaan-Surges-392-After-Luna-Squares-Partnership-For-Mining-Bitcoin
+  sentiment: Bullish
+- id: 20
+  title: cryptonews.com - Bullish
+  preview: 'Top Crypto Gainers: SIMP, WSPnut, DDBAM'
+  fullContent: "Top Crypto Gainers Today on DEXTools \u2013 SIMP, WSPnut, DDBAM"
+  image: news/BTC-USDT/11222024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20294210/Top-Crypto-Gainers-Today-on-DEXTools-SIMP-WSPnut-DDBAM
+  sentiment: Bullish
+- id: 21
+  title: bitcoinmagazine.com - VeryBullish
+  preview: Bitcoin approaches $100,000 with Trump intervention.
+  fullContent: Bitcoin Nears $100,000 As Trump Council Expected To Implement BTC Reserve
+  image: news/BTC-USDT/11222024/21/chart.png
+  sourcelink: https://cryptopanic.com/news/20293868/Bitcoin-Nears-100000-As-Trump-Council-Expected-To-Implement-BTC-Reserve
+  sentiment: VeryBullish
+- id: 22
+  title: ambcrypto.com - Bullish
+  preview: Bitcoin ETF spurs $170K prediction?
+  fullContent: 'Bitcoin ETF options reveal bullish sentiment: Are $170K predictions
+    realistic?'
+  image: news/BTC-USDT/11222024/22/chart.png
+  sourcelink: https://cryptopanic.com/news/20293843/Bitcoin-ETF-options-reveal-bullish-sentiment-Are-170K-predictions-realistic
+  sentiment: Bullish
+- id: 23
+  title: newsbtc.com - Neutral
+  preview: Ethereum Neutral Netflow Binance Signal
+  fullContent: 'Ethereum Sees Neutral Netflow On Binance: What Does This Signal?'
+  image: news/BTC-USDT/11222024/23/chart.png
+  sourcelink: https://cryptopanic.com/news/20293781/Ethereum-Sees-Neutral-Netflow-On-Binance-What-Does-This-Signal
+  sentiment: Neutral
+- id: 24
+  title: thecoinrepublic.com - Bullish
+  preview: Arkham Exchange US launch, institutions invest.
+  fullContent: Arkham Exchange Launches In US, Institutions Deepen Bitcoin Holdings
+  image: news/BTC-USDT/11222024/24/chart.png
+  sourcelink: https://cryptopanic.com/news/20293761/Arkham-Exchange-Launches-In-US-Institutions-Deepen-Bitcoin-Holdings
+  sentiment: Bullish
+- id: 25
+  title: cryptopolitan.com - Bearish
+  preview: Retail investors missed 2024's Bitcoin surge.
+  fullContent: Retail investors missed the 2024 Bitcoin (BTC) bull run
+  image: news/BTC-USDT/11222024/25/chart.png
+  sourcelink: https://cryptopanic.com/news/20293744/Retail-investors-missed-the-2024-Bitcoin-BTC-bull-run
+  sentiment: Bearish
+- id: 26
+  title: decrypt.co - Bullish
+  preview: Meme Coins Rise with Bitcoin's Surge
+  fullContent: Bitcoin Meme Coins Surge as BTC Rises Towards $100K
+  image: news/BTC-USDT/11222024/26/chart.png
+  sourcelink: https://cryptopanic.com/news/20293743/Bitcoin-Meme-Coins-Surge-as-BTC-Rises-Towards-100K
+  sentiment: Bullish
+- id: 27
+  title: cointelegraph.com - VeryBullish
+  preview: Record-breaking $70B Bitcoin trading volume.
+  fullContent: "\u2018BITSANITY\u2019 \u2014 Records broken with $70B in volume for\
+    \ Bitcoin stocks, ETFs"
+  image: news/BTC-USDT/11222024/27/chart.png
+  sourcelink: https://cryptopanic.com/news/20293715/BITSANITY-Records-broken-with-70B-in-volume-for-Bitcoin-stocks-ETFs
+  sentiment: VeryBullish
+- id: 28
+  title: bitcoinmagazine.com - VeryBullish
+  preview: Microsoft Urged to Buy Bitcoin
+  fullContent: Microsoft Should Buy $78 Billion Worth of Bitcoin
+  image: news/BTC-USDT/11222024/28/chart.png
+  sourcelink: https://cryptopanic.com/news/20293714/Microsoft-Should-Buy-78-Billion-Worth-of-Bitcoin
+  sentiment: VeryBullish
+- id: 29
+  title: theblock.co - Bullish
+  preview: MicroStrategy raises $3 billion for bitcoin.
+  fullContent: MicroStrategy completes its $3 billion debt offering to buy more bitcoin
+  image: news/BTC-USDT/11222024/29/chart.png
+  sourcelink: https://cryptopanic.com/news/20293712/MicroStrategy-completes-its-3-billion-debt-offering-to-buy-more-bitcoin
+  sentiment: Bullish
+- id: 30
+  title: cryptoslate.com - VeryBullish
+  preview: Bitcoin $100K is just beginning.
+  fullContent: "Galaxy Digital CEO Mike Novogratz says Bitcoin reaching $100,000 is\
+    \ \u2018just the start\u2019"
+  image: news/BTC-USDT/11222024/30/chart.png
+  sourcelink: https://cryptopanic.com/news/20293709/Galaxy-Digital-CEO-Mike-Novogratz-says-Bitcoin-reaching-100000-is-just-the-start
+  sentiment: VeryBullish
