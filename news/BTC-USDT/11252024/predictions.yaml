@@ -1,0 +1,283 @@
+predictions:
+- id: 1
+  title: COINTURK NEWS - Bullish
+  preview: Ripple Labs Fights Crypto Regulation Pressure
+  fullContent: "Ripple Labs emphasizes its role in combating crypto regulatory pressures.\
+    \ Stuart Alderoty acknowledges key contributors to Ripple\u2019s legal success.\
+    \ Continue Reading:Ripple Labs Highlights Its Role in Fighting Crypto Regulatory\
+    \ Pressure The post Ripple Labs Highlights Its Role in Fighting Crypto Regulatory\
+    \ Pressure appeared first on COINTURK NEWS."
+  image: news/BTC-USDT/11252024/1/chart.png
+  sourcelink: https://en.coin-turk.com/ripple-labs-highlights-its-role-in-fighting-crypto-regulatory-pressure/
+  sentiment: Bullish
+- id: 2
+  title: U.Today - VeryBullish
+  preview: Dogecoin rises, Bitcoin struggles, Solana tested.
+  fullContent: Monday might become day of records for cryptocurrency market
+  image: news/BTC-USDT/11252024/2/chart.png
+  sourcelink: https://u.today/dogecoin-doge-begins-1-wave-surge-bitcoins-btc-trouble-at-100000-details-solana-sol-to-get-tested
+  sentiment: VeryBullish
+- id: 3
+  title: AMBCrypto - Bullish
+  preview: Will Solana soon hit $299?
+  fullContent: "After reaching an all-time high, where could SOL go next? Let\u2019\
+    s find out."
+  image: news/BTC-USDT/11252024/3/chart.png
+  sourcelink: https://ambcrypto.com/can-solana-surge-to-299-soon-what-the-data-suggests/
+  sentiment: Bullish
+- id: 4
+  title: NewsBTC - Bullish
+  preview: XRP Hits $1.6, Future Uncertain.
+  fullContent: "The XRP price recently surged to a three-year high of $1.6, marking\
+    \ a significant milestone in the cryptocurrency\u2019s recent bullish rally. This\
+    \ remarkable price movement has garnered the attention of many analysts as investors\
+    \ continue to project the trajectory of the price. Related Reading: Chainlink\
+    \ Rockets 20%: Whale Activity Sparks Break From Bear Trend There are basically\
+    \ two ways the XRP price can go from here: either a continued move upwards or\
+    \ a notable correction. An in-between is a consolidation pattern. CrediBULL Crypto\
+    \ shared his insights on the potential paths the altcoin might take next. Using\
+    \ the Elliott Wave Theory, he highlighted two scenarios that could shape XRP\u2019\
+    s near-term future. What\u2019s The Next Path For XRP Price? According to CrediBULL\
+    \ Crypto, XRP\u2019s recent rally exhibits a textbook example of a five-wave impulsive\
+    \ move, complete with clearly identifiable subwaves. This pattern confirms that\
+    \ the cryptocurrency has likely reached its absolute bottom at the November low\
+    \ of $0.49, which is a strong foundation for its current upward trend. The impulsive\
+    \ wave structure suggests that the crypto is at a pivotal juncture, and its future\
+    \ trajectory hinges on whether it sustains specific price levels. The first possibility\
+    \ centers on XRP failing to maintain its position above $1.05, which is the origin\
+    \ of the fifth subwave in the current impulsive structure. Should this level break,\
+    \ it would confirm that the XRP price is in a larger Wave 2 correction. According\
+    \ to the Elliot Waves Theory, Waves 2 and 4 are corrective waves, while Waves\
+    \ 1, 3, and 5 are the main bullish waves. before This correction, while bearish\
+    \ in the short term, would lay the groundwork for an even stronger Wave 3 rally\
+    \ in the future. CrediBULL Crypto predicts a very different outcome if the XRP\
+    \ price manages to hold above the $1.05 level. Holding above the $1.05 level would\
+    \ indicate that the fifth subwave is extending. In this case, the analyst predicted\
+    \ that the XRP price will surpass the $2 mark before experiencing any substantial\
+    \ pullback. The Road Ahead For XRP XRP, which had lingered below the $1 threshold\
+    \ for the past three years, has now firmly established itself above this pivotal\
+    \ mark. The recent XRP price surge to $1.6 suggests that the cryptocurrency is\
+    \ in a stronger position to target the $2 milestone rather than retreat into a\
+    \ significant correction. This bullish sentiment is bolstered by speculation around\
+    \ SEC Chairman Gary Gensler\u2019s anticipated resignation in January 2025. Related\
+    \ Reading: Top Analyst Claims XRP New ATH Is Just Around The Corner \u2013 Details\
+    \ The XRP price climb to $1.6 reflects its growing strength in the market. Nonetheless,\
+    \ the next phase of its journey depends on key support and resistance levels.\
+    \ At the time of writing, the XRP price is trading at $1.46, having corrected\
+    \ by about 8.5% in the past 24 hours. However, the XRP price is still up by 175%\
+    \ in the past 30 days. Featured image from Pexels, chart from TradingView"
+  image: news/BTC-USDT/11252024/4/chart.png
+  sourcelink: https://www.newsbtc.com/news/xrp-price-reaches-3-year-high-at-1-6-2-ways-it-can-go-from-here/
+  sentiment: Bullish
+- id: 5
+  title: GG by Decrypt - Neutral
+  preview: 'Crypto Games: FIFA, MemeFi, Pac-Man'
+  fullContent: "Catch up on this week\u2019s biggest crypto and NFT gaming news and\
+    \ find some weekend reads in our latest roundup."
+  image: news/BTC-USDT/11252024/5/chart.png
+  sourcelink: https://decrypt.co/293042/this-week-crypto-games-fifa-rivals-memefi-airdrop-pacman
+  sentiment: Neutral
+- id: 6
+  title: Bitcoin.com - VeryBullish
+  preview: 'Sony''s Soneium: Potential Web3 Solution'
+  fullContent: "If you are unfamiliar with the launch of Soneium, you need to read\
+    \ this article because Sony is positioning itself as a bridge for mainstream audiences\
+    \ into Web3. This piece is a guest post by Blocmates. Blocmates is an invaluable\
+    \ crypto news and educational resource that offers clarity in the often complicated\
+    \ and jargon-filled crypto [\u2026]"
+  image: news/BTC-USDT/11252024/6/chart.png
+  sourcelink: https://news.bitcoin.com/sonys-soneium-might-be-the-answer-to-mass-web3-adoption/
+  sentiment: VeryBullish
+- id: 7
+  title: Cointelegraph - Bearish
+  preview: Bitcoin falls, altcoins rise sharply.
+  fullContent: Dogecoin, XRP, Stellar and Sandbox saw a larger liquidation share than
+    usual as some top altcoins from the 2020-2021 cycle soared as high as 50%.
+  image: news/BTC-USDT/11252024/7/chart.png
+  sourcelink: https://cointelegraph.com/news/crypto-liquidations-470-million-bitcoin-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  sentiment: Bearish
+- id: 8
+  title: Crypto.news - Neutral
+  preview: Australia consulting OECD on crypto taxation
+  fullContent: "Australia, with the world\u2019s most significant number of crypto\
+    \ ATMs, seeks advice from an international organization on implementing crypto\
+    \ taxation. The Organization of Economic Cooperations and Development (OECD),\
+    \ which has invented taxation on digital assets framework, was asked by the\u2026"
+  image: news/BTC-USDT/11252024/8/chart.png
+  sourcelink: https://crypto.news/australia-seeking-advice-on-crypto-taxation-to-oecd/
+  sentiment: Neutral
+- id: 9
+  title: COINTURK NEWS - Bearish
+  preview: Speculative overheating factors in crypto.
+  fullContent: IntoTheBlock identifies signals of speculative overheating in the crypto
+    market. Net Bitcoin outflows indicate a shift in investor asset management. Continue
+    Reading:IntoTheBlock Identifies Factors Indicating Speculative Overheating in
+    Crypto Market The post IntoTheBlock Identifies Factors Indicating Speculative
+    Overheating in Crypto Market appeared first on COINTURK NEWS.
+  image: news/BTC-USDT/11252024/9/chart.png
+  sourcelink: https://en.coin-turk.com/intotheblock-identifies-factors-indicating-speculative-overheating-in-crypto-market/
+  sentiment: Bearish
+- id: 10
+  title: AMBCrypto - Bullish
+  preview: XRP approaches $1.20 entry point.
+  fullContent: XRP reached new highs; high slippage indicated rising trade risks and
+    volatility.
+  image: news/BTC-USDT/11252024/10/chart.png
+  sourcelink: https://ambcrypto.com/xrp-surges-to-2021-highs-time-to-watch-for-a-1-20-entry-point/
+  sentiment: Bullish
+- id: 11
+  title: u.today - Bullish
+  preview: Dogecoin surges, Bitcoin struggles, Solana's test.
+  fullContent: 'Dogecoin (DOGE) Begins $1 Wave Surge, Bitcoin''s (BTC) Trouble at
+    $100,000: Details, Solana (SOL) to Get Tested in 3 Days'
+  image: news/BTC-USDT/11252024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20311037/Dogecoin-DOGE-Begins-1-Wave-Surge-Bitcoins-BTC-Trouble-at-100000-Details-Solana-SOL-to-Get-Tested-in-3-Days
+  sentiment: Bullish
+- id: 12
+  title: cointelegraph.com - Neutral
+  preview: Bitcoin down, altcoins up, $470M liquidated
+  fullContent: Crypto liquidations reach $470M as Bitcoin retraces, altcoins surge
+  image: news/BTC-USDT/11252024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20310985/Crypto-liquidations-reach-470M-as-Bitcoin-retraces-altcoins-surge
+  sentiment: Neutral
+- id: 13
+  title: coinscreed.com - Neutral
+  preview: Supercomputer Simulates Nuclear Tests Rapidly
+  fullContent: "World\u2019s Fastest Supercomputer Simulates Nuclear Tests"
+  image: news/BTC-USDT/11252024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20310976/Worlds-Fastest-Supercomputer-Simulates-Nuclear-Tests
+  sentiment: Neutral
+- id: 14
+  title: bitcoin.com - Neutral
+  preview: Bitcoin's Market Volatility Splits Globally
+  fullContent: "From Premiums to Discounts: Bitcoin\u2019s Wild Ride Splits Global\
+    \ Markets"
+  image: news/BTC-USDT/11252024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20310862/From-Premiums-to-Discounts-Bitcoins-Wild-Ride-Splits-Global-Markets
+  sentiment: Neutral
+- id: 15
+  title: newsbtc.com - Bullish
+  preview: XRP Analyst Predicts $2 Target Possibility
+  fullContent: "XRP Analyst Sets $2 Target If It Holds Key Level \u2013 Can It Reach\
+    \ Multi-Year Highs?"
+  image: news/BTC-USDT/11252024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20310856/XRP-Analyst-Sets-2-Target-If-It-Holds-Key-Level-Can-It-Reach-Multi-Year-Highs
+  sentiment: Bullish
+- id: 16
+  title: beincrypto.com - Bullish
+  preview: ETFs may surpass Satoshi's Bitcoin.
+  fullContent: "Spot Bitcoin ETFs on Track to Overtake Satoshi\u2019s BTC Holdings\
+    \ by Year-End"
+  image: news/BTC-USDT/11252024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20310865/Spot-Bitcoin-ETFs-on-Track-to-Overtake-Satoshis-BTC-Holdings-by-Year-End
+  sentiment: Bullish
+- id: 17
+  title: coinpaprika.com - Bullish
+  preview: Cantor Fitzgerald Partners with Tether
+  fullContent: Cantor Fitzgerald Joins Forces with Tether
+  image: news/BTC-USDT/11252024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20310858/Cantor-Fitzgerald-Joins-Forces-with-Tether
+  sentiment: Bullish
+- id: 18
+  title: cryptopotato.com - Bearish
+  preview: BIT Mining resolves $10M bribery case.
+  fullContent: BIT Mining Settles for $10M Over Bribery Allegations in Japan Resort
+    License Bid
+  image: news/BTC-USDT/11252024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20310845/BIT-Mining-Settles-for-10M-Over-Bribery-Allegations-in-Japan-Resort-License-Bid
+  sentiment: Bearish
+- id: 19
+  title: cointelegraph.com - VeryBearish
+  preview: WBTC crashes to $5K on Binance.
+  fullContent: Wrapped Bitcoin flash crashes to $5K on Binance exchange
+  image: news/BTC-USDT/11252024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20310729/Wrapped-Bitcoin-flash-crashes-to-5K-on-Binance-exchange
+  sentiment: VeryBearish
+- id: 20
+  title: '@BTC_Archive - Bullish'
+  preview: Buying Bitcoin during price drop.
+  fullContent: "This is where we buy the dip... \n\n#Bitcoin"
+  image: news/BTC-USDT/11252024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20310725/This-is-where-we-buy-the-dip-Bitcoin
+  sentiment: Bullish
+- id: 21
+  title: cointelegraph.com - Bullish
+  preview: Bitcoin dip could boost altcoins.
+  fullContent: Bitcoin price dip may spur buying spree in BNB, AVAX, NEAR and OKB
+  image: news/BTC-USDT/11252024/21/chart.png
+  sourcelink: https://cryptopanic.com/news/20310719/Bitcoin-price-dip-may-spur-buying-spree-in-BNB-AVAX-NEAR-and-OKB
+  sentiment: Bullish
+- id: 22
+  title: '@DaanCrypto - VeryBullish'
+  preview: Bitcoin approaches significant $100K milestone.
+  fullContent: '#Bitcoin Has traded in touching distance of the $100K mark.
+
+
+    Will next week be the week where we see a 6 figure $BTC?
+
+
+    It would make for a massive inflow of media attention and new retail participants/money.'
+  image: news/BTC-USDT/11252024/22/chart.png
+  sourcelink: https://cryptopanic.com/news/20310698/Bitcoin-Has-traded-in-touching-distance-of-the-100K-mark-Will-next-week-be-the-week-where-we-see-a-6-figure-BTC-It-would-make-for-a-massive-inflow-of-media-attention-and-new-retail-participantsmoney
+  sentiment: VeryBullish
+- id: 23
+  title: newsbtc.com - Bullish
+  preview: Analyst insists XRP won't drop below $1.
+  fullContent: XRP Below $1? Not Happening, Claims Millionaire Analyst
+  image: news/BTC-USDT/11252024/23/chart.png
+  sourcelink: https://cryptopanic.com/news/20310609/XRP-Below-1-Not-Happening-Claims-Millionaire-Analyst
+  sentiment: Bullish
+- id: 24
+  title: feeds2.benzinga.com - VeryBullish
+  preview: Bitcoin forecasted to reach $1 million.
+  fullContent: 'Crypto Analyst: Bitcoin Poised To Skyrocket To $180K and ''Eventually''
+    Top $1M'
+  image: news/BTC-USDT/11252024/24/chart.png
+  sourcelink: https://cryptopanic.com/news/20310699/Crypto-Analyst-Bitcoin-Poised-To-Skyrocket-To-180K-and-Eventually-Top-1M
+  sentiment: VeryBullish
+- id: 25
+  title: dailyhodl.com - Neutral
+  preview: Analyst finds triggers for Bitcoin peak.
+  fullContent: Top Crypto Analyst Unveils Two Triggers That Could Signal Bull Market
+    Top for Bitcoin (BTC)
+  image: news/BTC-USDT/11252024/25/chart.png
+  sourcelink: https://cryptopanic.com/news/20310611/Top-Crypto-Analyst-Unveils-Two-Triggers-That-Could-Signal-Bull-Market-Top-for-Bitcoin-BTC
+  sentiment: Neutral
+- id: 26
+  title: beincrypto.com - Bullish
+  preview: Hints suggest MicroStrategy's Bitcoin acquisitions.
+  fullContent: "Michael Saylor\u2019s Hints Follow Pattern of Major Bitcoin Purchases\
+    \ at MicroStrategy"
+  image: news/BTC-USDT/11252024/26/chart.png
+  sourcelink: https://cryptopanic.com/news/20310694/Michael-Saylors-Hints-Follow-Pattern-of-Major-Bitcoin-Purchases-at-MicroStrategy
+  sentiment: Bullish
+- id: 27
+  title: coinpedia.org - Bullish
+  preview: Cantor Fitzgerald partners with Tether project.
+  fullContent: "Cantor Fitzgerald, The New Commerce Secretary\u2019s Firm To Work\
+    \ With Tether For $2B Project"
+  image: news/BTC-USDT/11252024/27/chart.png
+  sourcelink: https://cryptopanic.com/news/20310603/Cantor-Fitzgerald-The-New-Commerce-Secretarys-Firm-To-Work-With-Tether-For-2B-Project
+  sentiment: Bullish
+- id: 28
+  title: feeds2.benzinga.com - VeryBullish
+  preview: Bitcoin's Bullish $125K 2024 Prediction
+  fullContent: 'Bitcoin''s Bull Run: Betting On A $125K Finish To 2024'
+  image: news/BTC-USDT/11252024/28/chart.png
+  sourcelink: https://cryptopanic.com/news/20310606/Bitcoins-Bull-Run-Betting-On-A-125K-Finish-To-2024
+  sentiment: VeryBullish
+- id: 29
+  title: coinpedia.org - VeryBullish
+  preview: BTC nears $100K, Tether mints $3B.
+  fullContent: As BTC Approaches $100K, Tether mints an additional $3 billion in USDT
+    Tokens
+  image: news/BTC-USDT/11252024/29/chart.png
+  sourcelink: https://cryptopanic.com/news/20310597/As-BTC-Approaches-100K-Tether-mints-an-additional-3-billion-in-USDT-Tokens
+  sentiment: VeryBullish
+- id: 30
+  title: coinpedia.org - VeryBearish
+  preview: $495M Crypto Liquidated in Correction.
+  fullContent: $495M Worth Crypto Liquidated In The Past 24 Hours Amid Market Correction!
+  image: news/BTC-USDT/11252024/30/chart.png
+  sourcelink: https://cryptopanic.com/news/20310595/495M-Worth-Crypto-Liquidated-In-The-Past-24-Hours-Amid-Market-Correction
+  sentiment: VeryBearish
