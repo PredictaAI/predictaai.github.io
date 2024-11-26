@@ -1,0 +1,162 @@
+predictions:
+- id: 1
+  title: u.today - VeryBullish
+  preview: Shiba Inu breakout, Toncoin skyrocketing next.
+  fullContent: 'Shiba Inu (SHIB) Breakout Secured: What''s Next? Bitcoin (BTC) Delivers
+    Hidden Signal, Toncoin (TON) Next to Skyrocket?'
+  image: news/BTC-USDT/11262024/1/chart.png
+  sourcelink: https://cryptopanic.com/news/20320028/Shiba-Inu-SHIB-Breakout-Secured-Whats-Next-Bitcoin-BTC-Delivers-Hidden-Signal-Toncoin-TON-Next-to-Skyrocket
+  sentiment: VeryBullish
+- id: 2
+  title: cointelegraph.com - Bullish
+  preview: Rumble allocates $20M to Bitcoin.
+  fullContent: Rumble to spend up to $20M on Bitcoin in new treasury strategy
+  image: news/BTC-USDT/11262024/2/chart.png
+  sourcelink: https://cryptopanic.com/news/20319969/Rumble-to-spend-up-to-20M-on-Bitcoin-in-new-treasury-strategy
+  sentiment: Bullish
+- id: 3
+  title: bitcoin.com - Bullish
+  preview: Hong Kong digital bank offers Bitcoin.
+  fullContent: Largest Digital Bank in Hong Kong to Offer Bitcoin Trading to Retail
+    Users
+  image: news/BTC-USDT/11262024/3/chart.png
+  sourcelink: https://cryptopanic.com/news/20319966/Largest-Digital-Bank-in-Hong-Kong-to-Offer-Bitcoin-Trading-to-Retail-Users
+  sentiment: Bullish
+- id: 4
+  title: decrypt.co - Bearish
+  preview: Bitcoin drops, $400M longs liquidated.
+  fullContent: Bitcoin Dips to $93,000 With $400 Million in Longs Rekt. Where to From
+    Here?
+  image: news/BTC-USDT/11262024/4/chart.png
+  sourcelink: https://cryptopanic.com/news/20319955/Bitcoin-Dips-to-93000-With-400-Million-in-Longs-Rekt-Where-to-From-Here
+  sentiment: Bearish
+- id: 5
+  title: cryptoslate.com - Bullish
+  preview: Tron invests $30M in Trump-backed company.
+  fullContent: "Justin Sun\u2019s Tron network invests $30 million in Trump family-backed\
+    \ World Liberty Financial"
+  image: news/BTC-USDT/11262024/5/chart.png
+  sourcelink: https://cryptopanic.com/news/20319944/Justin-Suns-Tron-network-invests-30-million-in-Trump-family-backed-World-Liberty-Financial
+  sentiment: Bullish
+- id: 6
+  title: '@BTC_Archive - VeryBullish'
+  preview: Bitcoin hits new peak, Schiff despondent.
+  fullContent: 'BREAKING: #Bitcoin just made a new ALL TIME HIGH priced in Gold.
+
+
+    Peter Schiff in despair... '
+  image: news/BTC-USDT/11262024/6/chart.png
+  sourcelink: https://cryptopanic.com/news/20319948/BREAKING-Bitcoin-just-made-a-new-ALL-TIME-HIGH-priced-in-Gold-Peter-Schiff-in-despair
+  sentiment: VeryBullish
+- id: 7
+  title: decrypt.co - Bullish
+  preview: Rumble follows MicroStrategy, adopts Bitcoin.
+  fullContent: Rumble Adopts Bitcoin Treasury Strategy, Echoing Moves by MicroStrategy
+  image: news/BTC-USDT/11262024/7/chart.png
+  sourcelink: https://cryptopanic.com/news/20319921/Rumble-Adopts-Bitcoin-Treasury-Strategy-Echoing-Moves-by-MicroStrategy
+  sentiment: Bullish
+- id: 8
+  title: '@BTC_Archive - Neutral'
+  preview: Bitcoin correction at significant price level.
+  fullContent: "Bitcoin correction happened at the end of November in 2020, at the\
+    \ psychological level of the previous all-time high. Then... \n\nNow we're correcting\
+    \ at the $100K level, also a psychologically significant price level.\n\nno big\
+    \ deal... "
+  image: news/BTC-USDT/11262024/8/chart.png
+  sourcelink: https://cryptopanic.com/news/20319918/Bitcoin-correction-happened-at-the-end-of-November-in-2020-at-the-psychological-level-of-the-previous-all-time-high-Then-Now-were-correcting-at-the-100K-level-also-a-psychologically-significant-price-level-no-big-deal
+  sentiment: Neutral
+- id: 9
+  title: bitcoin.com - Bullish
+  preview: Rising Interest in Digital Asset Investments
+  fullContent: 'Coinshares: Record Inflows Showcase Growing Interest in Digital Asset
+    Investment Vehicles'
+  image: news/BTC-USDT/11262024/9/chart.png
+  sourcelink: https://cryptopanic.com/news/20319892/Coinshares-Record-Inflows-Showcase-Growing-Interest-in-Digital-Asset-Investment-Vehicles
+  sentiment: Bullish
+- id: 10
+  title: cryptobriefing.com - Bullish
+  preview: Rumble plans $20M Bitcoin investment.
+  fullContent: Rumble to invest up to $20 million in Bitcoin from its cash reserves
+  image: news/BTC-USDT/11262024/10/chart.png
+  sourcelink: https://cryptopanic.com/news/20319885/Rumble-to-invest-up-to-20-million-in-Bitcoin-from-its-cash-reserves
+  sentiment: Bullish
+- id: 11
+  title: dailyhodl.com - VeryBullish
+  preview: Bitcoin ETFs see record inflows.
+  fullContent: '$3,124,000,000 Hits Bitcoin ETFs In Largest Weekly Inflows on Record:
+    CoinShares'
+  image: news/BTC-USDT/11262024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20319764/3124000000-Hits-Bitcoin-ETFs-In-Largest-Weekly-Inflows-on-Record-CoinShares
+  sentiment: VeryBullish
+- id: 12
+  title: newsbtc.com - Bullish
+  preview: Bitcoin nearing $100k amid inflows.
+  fullContent: Bitcoin To Smash $100,000? Rapid Stablecoin Exchange Inflows Continue
+  image: news/BTC-USDT/11262024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20319719/Bitcoin-To-Smash-100000-Rapid-Stablecoin-Exchange-Inflows-Continue
+  sentiment: Bullish
+- id: 13
+  title: cryptopolitan.com - VeryBearish
+  preview: Influencer criticizes Bitcoin as wealth-exclusive.
+  fullContent: Outspoken crypto influencer slams Bitcoin for being a speculative plaything
+    for the rich
+  image: news/BTC-USDT/11262024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20319713/Outspoken-crypto-influencer-slams-Bitcoin-for-being-a-speculative-plaything-for-the-rich
+  sentiment: VeryBearish
+- id: 14
+  title: '@BTC_Archive - Bullish'
+  preview: Rumble to invest $20M in Bitcoin.
+  fullContent: 'BREAKING: Rumble Announces #Bitcoin Treasury Strategy
+
+
+    Youtube rival Rumble will buy up to $20 million #Bitcoin '
+  image: news/BTC-USDT/11262024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20319712/BREAKING-Rumble-Announces-Bitcoin-Treasury-Strategy-Youtube-rival-Rumble-will-buy-up-to-20-million-Bitcoin
+  sentiment: Bullish
+- id: 15
+  title: thecoinrepublic.com - VeryBullish
+  preview: MicroStrategy Acquires $5.4B in Bitcoin
+  fullContent: MicroStrategy Buys Another $5.4 Billion Bitcoin (BTC)
+  image: news/BTC-USDT/11262024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20319710/MicroStrategy-Buys-Another-54-Billion-Bitcoin-BTC
+  sentiment: VeryBullish
+- id: 16
+  title: '@BTC_Archive - VeryBullish'
+  preview: Bitcoin nears peak, slight dip.
+  fullContent: "Bitcoin is down less than 6% since hitting the all time high of $99,661\n\
+    \nA dip for ants\u2026"
+  image: news/BTC-USDT/11262024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20319711/Bitcoin-is-down-less-than-6-since-hitting-the-all-time-high-of-99661-A-dip-for-ants
+  sentiment: VeryBullish
+- id: 17
+  title: cointelegraph.com - Bearish
+  preview: Bitcoin drops; liquidations, profit-taking surge.
+  fullContent: Bitcoin price slips to $93K as liquidations soar and long-term BTC
+    holders take profit
+  image: news/BTC-USDT/11262024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20319661/Bitcoin-price-slips-to-93K-as-liquidations-soar-and-long-term-BTC-holders-take-profit
+  sentiment: Bearish
+- id: 18
+  title: coinjournal.net - Bullish
+  preview: Cantor plans Tether-backed Bitcoin loans.
+  fullContent: "Lutnick\u2019s Cantor wants to use Tether to support a $2 billion\
+    \ Bitcoin lending program"
+  image: news/BTC-USDT/11262024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20319657/Lutnicks-Cantor-wants-to-use-Tether-to-support-a-2-billion-Bitcoin-lending-program
+  sentiment: Bullish
+- id: 19
+  title: beincrypto.com - Bullish
+  preview: Sonic Mainnet, Avalanche, Jupiter Updates.
+  fullContent: "Top Crypto News This Week: Sonic Mainnet to Launch, Avalanche Etna\
+    \ Goes Live, Jupiter\u2019s Jupuary Starts Voting"
+  image: news/BTC-USDT/11262024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20319656/Top-Crypto-News-This-Week-Sonic-Mainnet-to-Launch-Avalanche-Etna-Goes-Live-Jupiters-Jupuary-Starts-Voting
+  sentiment: Bullish
+- id: 20
+  title: feeds2.benzinga.com - VeryBullish
+  preview: 'Tim Draper bitcoin prediction: $250K 2025'
+  fullContent: 'EXCLUSIVE: Tim Draper Predicts Bitcoin To Reach $120K By End Of 2024,
+    $250K In 2025'
+  image: news/BTC-USDT/11262024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20319601/EXCLUSIVE-Tim-Draper-Predicts-Bitcoin-To-Reach-120K-By-End-Of-2024-250K-In-2025
+  sentiment: VeryBullish
