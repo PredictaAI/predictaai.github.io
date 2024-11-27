@@ -1,0 +1,153 @@
+predictions:
+- id: 1
+  title: cryptodaily.co.uk - Bullish
+  preview: 'DOGE, BTC: Weathering and Advancing Markets'
+  fullContent: 'DOGE and BTC: Navigating the Storm and Positioning for the Next Leg
+    Up'
+  image: news/BTC-USDT/11272024/1/chart.png
+  sourcelink: https://cryptopanic.com/news/20329477/DOGE-and-BTC-Navigating-the-Storm-and-Positioning-for-the-Next-Leg-Up
+  sentiment: Bullish
+- id: 2
+  title: bitcoin.com - Bullish
+  preview: Crypto Crucial to Future US Voting
+  fullContent: "Trump\u2019s Crypto Aide: Crypto to Become the \u2018Most Critical\u2019\
+    \ Voter Block in the US"
+  image: news/BTC-USDT/11272024/2/chart.png
+  sourcelink: https://cryptopanic.com/news/20329453/Trumps-Crypto-Aide-Crypto-to-Become-the-Most-Critical-Voter-Block-in-the-US
+  sentiment: Bullish
+- id: 3
+  title: newsbtc.com - VeryBearish
+  preview: 'Bitcoin Falls Below $93K: Why?'
+  fullContent: "Bitcoin Crashes Under $93,000: What\u2019s Behind It?"
+  image: news/BTC-USDT/11272024/3/chart.png
+  sourcelink: https://cryptopanic.com/news/20329363/Bitcoin-Crashes-Under-93000-Whats-Behind-It
+  sentiment: VeryBearish
+- id: 4
+  title: cryptoglobe.com - VeryBullish
+  preview: Crypto Funds Hit Record Weekly Inflows
+  fullContent: Crypto Funds See Record $3.13 Billion Weekly Inflows, Led by Bitcoin,
+    Solana, and XRP
+  image: news/BTC-USDT/11272024/4/chart.png
+  sourcelink: https://cryptopanic.com/news/20329284/Crypto-Funds-See-Record-313-Billion-Weekly-Inflows-Led-by-Bitcoin-Solana-and-XRP
+  sentiment: VeryBullish
+- id: 5
+  title: ambcrypto.com - Bearish
+  preview: 'Bitcoin pullback caution: 30% potential.'
+  fullContent: 'Bitcoin market caution: Is a 30% BTC pullback coming?'
+  image: news/BTC-USDT/11272024/5/chart.png
+  sourcelink: https://cryptopanic.com/news/20329273/Bitcoin-market-caution-Is-a-30-BTC-pullback-coming
+  sentiment: Bearish
+- id: 6
+  title: bitcoin.com - Neutral
+  preview: U.S. Debt Rise Impacts Bitcoin
+  fullContent: 'US National Debt Reaches $36 Trillion: What It Means for Bitcoin'
+  image: news/BTC-USDT/11272024/6/chart.png
+  sourcelink: https://cryptopanic.com/news/20329274/US-National-Debt-Reaches-36-Trillion-What-It-Means-for-Bitcoin
+  sentiment: Neutral
+- id: 7
+  title: coingape.com - Bearish
+  preview: 'Crypto Crash: Rebound or Further Decline?'
+  fullContent: 'Crypto Market Crash: Will It Bounce Back or Keep Falling?'
+  image: news/BTC-USDT/11272024/7/chart.png
+  sourcelink: https://cryptopanic.com/news/20329231/Crypto-Market-Crash-Will-It-Bounce-Back-or-Keep-Falling
+  sentiment: Bearish
+- id: 8
+  title: cryptoslate.com - Bullish
+  preview: NYSE lists Bitwise's Bitcoin-Ethereum ETP
+  fullContent: "NYSE files to list Bitwise\u2019s Bitcoin and Ethereum mixed ETP"
+  image: news/BTC-USDT/11272024/8/chart.png
+  sourcelink: https://cryptopanic.com/news/20329112/NYSE-files-to-list-Bitwises-Bitcoin-and-Ethereum-mixed-ETP
+  sentiment: Bullish
+- id: 9
+  title: bitcoin.com - VeryBearish
+  preview: Massive Liquidations as Bitcoin Drops
+  fullContent: "Crypto Bloodbath: $581M in Derivatives Liquidated Amid Bitcoin\u2019\
+    s Fall"
+  image: news/BTC-USDT/11272024/9/chart.png
+  sourcelink: https://cryptopanic.com/news/20329044/Crypto-Bloodbath-581M-in-Derivatives-Liquidated-Amid-Bitcoins-Fall
+  sentiment: VeryBearish
+- id: 10
+  title: theblock.co - Bearish
+  preview: Bitcoin holders sold 728,000 BTC recently.
+  fullContent: 'Long-term bitcoin holders sold over 728,000 BTC in the past 30 days:
+    CryptoQuant'
+  image: news/BTC-USDT/11272024/10/chart.png
+  sourcelink: https://cryptopanic.com/news/20329009/Long-term-bitcoin-holders-sold-over-728000-BTC-in-the-past-30-days-CryptoQuant
+  sentiment: Bearish
+- id: 11
+  title: newsbtc.com - Bullish
+  preview: 'MARA CEO: Institutions Eager for Bitcoin'
+  fullContent: "Institutions Just \u2018Waiting To Buy Up\u2019 Bitcoin, Says MARA\
+    \ CEO"
+  image: news/BTC-USDT/11272024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20329008/Institutions-Just-Waiting-To-Buy-Up-Bitcoin-Says-MARA-CEO
+  sentiment: Bullish
+- id: 12
+  title: theblock.co - Neutral
+  preview: Trump team seeks CFTC crypto regulation.
+  fullContent: "Trump team looking to shift crypto regulation to CFTC, dilute SEC\u2019\
+    s role: report"
+  image: news/BTC-USDT/11272024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20328974/Trump-team-looking-to-shift-crypto-regulation-to-CFTC-dilute-SECs-role-report
+  sentiment: Neutral
+- id: 13
+  title: thestreet.com - VeryBullish
+  preview: $120k Bitcoin prediction might underestimate.
+  fullContent: "EXCLUSIVE: Following MicroStrategy $5.4 Billion BTC Buy, Draper Says\
+    \ his $120k 2024 Prediction Could Be \u201CUnderestimating\u201D"
+  image: news/BTC-USDT/11272024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20328971/EXCLUSIVE-Following-MicroStrategy-54-Billion-BTC-Buy-Draper-Says-his-120k-2024-Prediction-Could-Be-Underestimating
+  sentiment: VeryBullish
+- id: 14
+  title: theblock.co - VeryBullish
+  preview: Bitcoin may hit $740K by 2028.
+  fullContent: Pantera founder Dan Morehead says bitcoin could reach $740,000 by April
+    2028, if current trendline continues
+  image: news/BTC-USDT/11272024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20328810/Pantera-founder-Dan-Morehead-says-bitcoin-could-reach-740000-by-April-2028-if-current-trendline-continues
+  sentiment: VeryBullish
+- id: 15
+  title: '@BTC_Archive - VeryBullish'
+  preview: Saylor surpasses Bitcoin purchase targets rapidly.
+  fullContent: "Since Michael Saylor announced plans to buy $42b #Bitcoin over 3 years,\
+    \ he bought $12 BILLION $BTC\n\nThat's $2b more than the total 2025 target in\
+    \ 1 MONTH!\n\nThere's a good chance he could buy another $30b Bitcoin this year\
+    \ and SMASH the 3 year plan in just 3 months!\n\nWhat next?\u2026"
+  image: news/BTC-USDT/11272024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20328761/Since-Michael-Saylor-announced-plans-to-buy-42b-Bitcoin-over-3-years-he-bought-12-BILLION-BTC-Thats-2b-more-than-the-total-2025-target-in-1-MONTH-Theres-a-good-chance-he-could-buy-another-30b-Bitcoin-this-year-and-SMASH-the-3-year-plan-in-just-3-months-Wha
+  sentiment: VeryBullish
+- id: 16
+  title: bitcoinmagazine.com - Bullish
+  preview: 'Increasing Bitcoin Holdings: Surpassing Expectations'
+  fullContent: "Maximizing Bitcoin Accumulation \u2013 Beyond the Benchmark"
+  image: news/BTC-USDT/11272024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20328679/Maximizing-Bitcoin-Accumulation-Beyond-the-Benchmark
+  sentiment: Bullish
+- id: 17
+  title: coinscreed.com - Bullish
+  preview: VanEck Extends Bitcoin ETF Waiver
+  fullContent: VanEck Extends Fee Waiver on Bitcoin ETF
+  image: news/BTC-USDT/11272024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20328639/VanEck-Extends-Fee-Waiver-on-Bitcoin-ETF
+  sentiment: Bullish
+- id: 18
+  title: cryptopolitan.com - Bullish
+  preview: Bitwise seeks SEC approval, NYSE launch.
+  fullContent: Bitwise files for Bitcoin-Ethereum ETF with SEC, plans NYSE launch
+  image: news/BTC-USDT/11272024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20328635/Bitwise-files-for-Bitcoin-Ethereum-ETF-with-SEC-plans-NYSE-launch
+  sentiment: Bullish
+- id: 19
+  title: dailycoin.com - Bearish
+  preview: Bitcoin price drops below $100K.
+  fullContent: Here's What's Driving Bitcoin's Price Retreat From $100K
+  image: news/BTC-USDT/11272024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20328631/Heres-Whats-Driving-Bitcoins-Price-Retreat-From-100K
+  sentiment: Bearish
+- id: 20
+  title: beincrypto.com - Bullish
+  preview: Morocco Considers Legal Crypto Adoption
+  fullContent: Morocco Moves Toward Legalizing Cryptocurrencies
+  image: news/BTC-USDT/11272024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20328644/Morocco-Moves-Toward-Legalizing-Cryptocurrencies
+  sentiment: Bullish
