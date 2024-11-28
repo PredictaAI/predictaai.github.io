@@ -1,0 +1,146 @@
+predictions:
+- id: 1
+  title: cryptodaily.co.uk - Bullish
+  preview: 'Altcoin Season Approaching: Crypto Rotation?'
+  fullContent: 'Altcoin Season on the Horizon: Is the Crypto Rotation Finally Here?'
+  image: news/BTC-USDT/11282024/1/chart.png
+  sourcelink: https://cryptopanic.com/news/20338276/Altcoin-Season-on-the-Horizon-Is-the-Crypto-Rotation-Finally-Here
+  sentiment: Bullish
+- id: 2
+  title: u.today - VeryBullish
+  preview: Bitcoin, Ethereum surge; Toncoin leads.
+  fullContent: Bitcoin (BTC) Bounce to Start Here, Ethereum (ETH) to Skyrocket? Toncoin
+    (TON) Dominates Top 15
+  image: news/BTC-USDT/11282024/2/chart.png
+  sourcelink: https://cryptopanic.com/news/20338085/Bitcoin-BTC-Bounce-to-Start-Here-Ethereum-ETH-to-Skyrocket-Toncoin-TON-Dominates-Top-15
+  sentiment: VeryBullish
+- id: 3
+  title: ambcrypto.com - VeryBearish
+  preview: 'Bitcoin down: $4B selloff panic.'
+  fullContent: Why is Bitcoin going down? Analysts link $4B selloff to holder panic!
+  image: news/BTC-USDT/11282024/3/chart.png
+  sourcelink: https://cryptopanic.com/news/20338081/Why-is-Bitcoin-going-down-Analysts-link-4B-selloff-to-holder-panic
+  sentiment: VeryBearish
+- id: 4
+  title: cryptopotato.com - Bullish
+  preview: US Must Lead Bitcoin Hash Rate
+  fullContent: 'MARA: US Must Dominate Bitcoin Hash Rate to Ensure Financial Sovereignty'
+  image: news/BTC-USDT/11282024/4/chart.png
+  sourcelink: https://cryptopanic.com/news/20338045/MARA-US-Must-Dominate-Bitcoin-Hash-Rate-to-Ensure-Financial-Sovereignty
+  sentiment: Bullish
+- id: 5
+  title: cryptopolitan.com - Bearish
+  preview: Schiff disapproves of MicroStrategy's Bitcoin approach.
+  fullContent: "Peter Schiff criticizes MicroStrategy\u2019s Bitcoin strategy"
+  image: news/BTC-USDT/11282024/5/chart.png
+  sourcelink: https://cryptopanic.com/news/20338040/Peter-Schiff-criticizes-MicroStrategys-Bitcoin-strategy
+  sentiment: Bearish
+- id: 6
+  title: newsbtc.com - Bullish
+  preview: Binance Data Indicates Ongoing Bitcoin Bull.
+  fullContent: 'Binance Data Reveals Bitcoin Profit Trends: Is the Bull Run Far From
+    Over?'
+  image: news/BTC-USDT/11282024/6/chart.png
+  sourcelink: https://cryptopanic.com/news/20338027/Binance-Data-Reveals-Bitcoin-Profit-Trends-Is-the-Bull-Run-Far-From-Over
+  sentiment: Bullish
+- id: 7
+  title: cryptonews.com - Neutral
+  preview: Russia Approves Crypto Tax for Miners
+  fullContent: 'Russian Lawmakers Approve Crypto Tax Bill: Miners to Pay 13-15% on
+    Revenues'
+  image: news/BTC-USDT/11282024/7/chart.png
+  sourcelink: https://cryptopanic.com/news/20338049/Russian-Lawmakers-Approve-Crypto-Tax-Bill-Miners-to-Pay-13-15-on-Revenues
+  sentiment: Neutral
+- id: 8
+  title: beincrypto.com - Neutral
+  preview: Celsius to Distribute $127 Million Payout
+  fullContent: Celsius to Distribute $127 Million in Second Payout to Creditors
+  image: news/BTC-USDT/11282024/8/chart.png
+  sourcelink: https://cryptopanic.com/news/20338001/Celsius-to-Distribute-127-Million-in-Second-Payout-to-Creditors
+  sentiment: Neutral
+- id: 9
+  title: cryptoslate.com - Bullish
+  preview: Mayor considers Bitcoin for city reserves.
+  fullContent: Vancouver mayor eyes Bitcoin to bolster city reserves against economic
+    shocks
+  image: news/BTC-USDT/11282024/9/chart.png
+  sourcelink: https://cryptopanic.com/news/20337883/Vancouver-mayor-eyes-Bitcoin-to-bolster-city-reserves-against-economic-shocks
+  sentiment: Bullish
+- id: 10
+  title: coinscreed.com - Bullish
+  preview: MARA Acquires Bitcoin via Convertible Notes
+  fullContent: MARA Buys 6,474 Bitcoin Through Convertible Notes
+  image: news/BTC-USDT/11282024/10/chart.png
+  sourcelink: https://cryptopanic.com/news/20337807/MARA-Buys-6474-Bitcoin-Through-Convertible-Notes
+  sentiment: Bullish
+- id: 11
+  title: cryptopolitan.com - Bullish
+  preview: Bitwise proposes 10-crypto index ETF.
+  fullContent: Bitwise files for 10-crypto index ETF with SEC
+  image: news/BTC-USDT/11282024/11/chart.png
+  sourcelink: https://cryptopanic.com/news/20337800/Bitwise-files-for-10-crypto-index-ETF-with-SEC
+  sentiment: Bullish
+- id: 12
+  title: cryptopolitan.com - VeryBullish
+  preview: Charles Hoskinson predicts $500,000 target.
+  fullContent: Cardano founder Charles Hoskinson predicts $500,000 price target
+  image: news/BTC-USDT/11282024/12/chart.png
+  sourcelink: https://cryptopanic.com/news/20337776/Cardano-founder-Charles-Hoskinson-predicts-500000-price-target
+  sentiment: VeryBullish
+- id: 13
+  title: beincrypto.com - Bullish
+  preview: Crypto Index ETF Filed by BitWise
+  fullContent: BitWise Files for 10 Crypto Index ETF with SEC
+  image: news/BTC-USDT/11282024/13/chart.png
+  sourcelink: https://cryptopanic.com/news/20337771/BitWise-Files-for-10-Crypto-Index-ETF-with-SEC
+  sentiment: Bullish
+- id: 14
+  title: dailycoin.com - VeryBearish
+  preview: Schiff Criticizes MicroStrategy, Foresees Crash
+  fullContent: Schiff Extends BTC Hate to MicroStrategy, Predicts Looming Crash
+  image: news/BTC-USDT/11282024/14/chart.png
+  sourcelink: https://cryptopanic.com/news/20337765/Schiff-Extends-BTC-Hate-to-MicroStrategy-Predicts-Looming-Crash
+  sentiment: VeryBearish
+- id: 15
+  title: newsbtc.com - VeryBullish
+  preview: Nansen CEO anticipates huge 2025 bull.
+  fullContent: '9 Crypto Predictions For 2025: Nansen CEO Predicts Biggest Bull Run
+    Ever'
+  image: news/BTC-USDT/11282024/15/chart.png
+  sourcelink: https://cryptopanic.com/news/20337584/9-Crypto-Predictions-For-2025-Nansen-CEO-Predicts-Biggest-Bull-Run-Ever
+  sentiment: VeryBullish
+- id: 16
+  title: ambcrypto.com - Neutral
+  preview: Analyzing altcoin season, Bitcoin trends.
+  fullContent: Is altcoin season here? Analyzing Bitcoin dominance and market trends
+  image: news/BTC-USDT/11282024/16/chart.png
+  sourcelink: https://cryptopanic.com/news/20337649/Is-altcoin-season-here-Analyzing-Bitcoin-dominance-and-market-trends
+  sentiment: Neutral
+- id: 17
+  title: coinscreed.com - Bullish
+  preview: Chris Giancarlo Discusses Bitcoin Reserve Strategy
+  fullContent: Chris Giancarlo Shares Insights on Bitcoin Reserve Strategy
+  image: news/BTC-USDT/11282024/17/chart.png
+  sourcelink: https://cryptopanic.com/news/20337587/Chris-Giancarlo-Shares-Insights-on-Bitcoin-Reserve-Strategy
+  sentiment: Bullish
+- id: 18
+  title: bitcoinmagazine.com - Bullish
+  preview: Bitcoin's impact on U.S. finances
+  fullContent: "Then They Fight You: Bitcoin and the United States\u2019 Fiscal Crossroads"
+  image: news/BTC-USDT/11282024/18/chart.png
+  sourcelink: https://cryptopanic.com/news/20337570/Then-They-Fight-You-Bitcoin-and-the-United-States-Fiscal-Crossroads
+  sentiment: Bullish
+- id: 19
+  title: decrypt.co - Bullish
+  preview: Crypto prices rise; Ethereum peaks.
+  fullContent: Bitcoin and Dogecoin Rebound as Ethereum Hits 5-Month High Price
+  image: news/BTC-USDT/11282024/19/chart.png
+  sourcelink: https://cryptopanic.com/news/20337553/Bitcoin-and-Dogecoin-Rebound-as-Ethereum-Hits-5-Month-High-Price
+  sentiment: Bullish
+- id: 20
+  title: thecoinrepublic.com - Bearish
+  preview: Ethereum Price Indicates Bearish Future
+  fullContent: "Ethereum (ETH) Price Signals Bearish Trend: What\u2019s to Come?"
+  image: news/BTC-USDT/11282024/20/chart.png
+  sourcelink: https://cryptopanic.com/news/20337563/Ethereum-ETH-Price-Signals-Bearish-Trend-Whats-to-Come
+  sentiment: Bearish
